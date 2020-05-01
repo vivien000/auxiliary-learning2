@@ -1,0 +1,2751 @@
+run,mode,overall,alpha,lam,loss
+0,Single task,False,1,0,0.29653046
+0,Multitask,False,1,300,0.64682484
+0,Projection,False,0.01,300,0.29914513
+0,Projection,False,1,300,0.56855905
+0,Weighted cosine,False,0.01,300,0.29494885
+0,Weighted cosine,False,1,300,0.30528116
+0,Unweighted cosine,False,0.01,300,0.29410583
+0,Unweighted cosine,False,1,300,0.31857523
+0,Orthogonal,False,0.01,300,0.29987556
+0,Orthogonal,False,1,300,0.55232584
+0,Multitask,False,1,100,0.44669303
+0,Projection,False,0.01,100,0.29279754
+0,Projection,False,1,100,0.37004203
+0,Weighted cosine,False,0.01,100,0.302181
+0,Weighted cosine,False,1,100,0.32804868
+0,Unweighted cosine,False,0.01,100,0.29993853
+0,Unweighted cosine,False,1,100,0.32583973
+0,Orthogonal,False,0.01,100,0.302401
+0,Orthogonal,False,1,100,0.3583226
+0,Multitask,False,1,30,0.3062368
+0,Projection,False,0.01,30,0.31497917
+0,Projection,False,1,30,0.31472993
+0,Weighted cosine,False,0.01,30,0.317168
+0,Weighted cosine,False,1,30,0.30229095
+0,Unweighted cosine,False,0.01,30,0.2983991
+0,Unweighted cosine,False,1,30,0.30279863
+0,Orthogonal,False,0.01,30,0.2976099
+0,Orthogonal,False,1,30,0.31437305
+0,Multitask,False,1,10,0.30314097
+0,Projection,False,0.01,10,0.30109474
+0,Projection,False,1,10,0.30343747
+0,Weighted cosine,False,0.01,10,0.29866305
+0,Weighted cosine,False,1,10,0.37262312
+0,Unweighted cosine,False,0.01,10,0.31753018
+0,Unweighted cosine,False,1,10,0.35138255
+0,Orthogonal,False,0.01,10,0.2910108
+0,Orthogonal,False,1,10,0.30666804
+0,Multitask,False,1,3,0.3248568
+0,Projection,False,0.01,3,0.30153733
+0,Projection,False,1,3,0.33819622
+0,Weighted cosine,False,0.01,3,0.3417132
+0,Weighted cosine,False,1,3,0.29048145
+0,Unweighted cosine,False,0.01,3,0.30633277
+0,Unweighted cosine,False,1,3,0.30361375
+0,Orthogonal,False,0.01,3,0.303464
+0,Orthogonal,False,1,3,0.30695614
+0,Multitask,False,1,1,0.340683
+0,Projection,False,0.01,1,0.30019024
+0,Projection,False,1,1,0.2985329
+0,Weighted cosine,False,0.01,1,0.29978976
+0,Weighted cosine,False,1,1,0.33308625
+0,Unweighted cosine,False,0.01,1,0.30564976
+0,Unweighted cosine,False,1,1,0.30726862
+0,Orthogonal,False,0.01,1,0.3095042
+0,Orthogonal,False,1,1,0.36149243
+1,Single task,False,1,0,0.30750558
+1,Multitask,False,1,300,0.650747
+1,Projection,False,0.01,300,0.30327246
+1,Projection,False,1,300,0.5611579
+1,Weighted cosine,False,0.01,300,0.30810758
+1,Weighted cosine,False,1,300,0.34339446
+1,Unweighted cosine,False,0.01,300,0.3068781
+1,Unweighted cosine,False,1,300,0.31883016
+1,Orthogonal,False,0.01,300,0.30777094
+1,Orthogonal,False,1,300,0.5818191
+1,Multitask,False,1,100,0.4462128
+1,Projection,False,0.01,100,0.2967277
+1,Projection,False,1,100,0.3639484
+1,Weighted cosine,False,0.01,100,0.3023043
+1,Weighted cosine,False,1,100,0.32397938
+1,Unweighted cosine,False,0.01,100,0.31809348
+1,Unweighted cosine,False,1,100,0.3140814
+1,Orthogonal,False,0.01,100,0.30096126
+1,Orthogonal,False,1,100,0.35401785
+1,Multitask,False,1,30,0.30964658
+1,Projection,False,0.01,30,0.31403667
+1,Projection,False,1,30,0.3134657
+1,Weighted cosine,False,0.01,30,0.30914485
+1,Weighted cosine,False,1,30,0.3325613
+1,Unweighted cosine,False,0.01,30,0.3069707
+1,Unweighted cosine,False,1,30,0.29086146
+1,Orthogonal,False,0.01,30,0.29612765
+1,Orthogonal,False,1,30,0.31136405
+1,Multitask,False,1,10,0.3105667
+1,Projection,False,0.01,10,0.2948395
+1,Projection,False,1,10,0.32606572
+1,Weighted cosine,False,0.01,10,0.3088931
+1,Weighted cosine,False,1,10,0.32078436
+1,Unweighted cosine,False,0.01,10,0.30086118
+1,Unweighted cosine,False,1,10,0.2989151
+1,Orthogonal,False,0.01,10,0.37701157
+1,Orthogonal,False,1,10,0.31462285
+1,Multitask,False,1,3,0.29656118
+1,Projection,False,0.01,3,0.29871643
+1,Projection,False,1,3,0.30429885
+1,Weighted cosine,False,0.01,3,0.30949524
+1,Weighted cosine,False,1,3,0.30459425
+1,Unweighted cosine,False,0.01,3,0.30013147
+1,Unweighted cosine,False,1,3,0.2996
+1,Orthogonal,False,0.01,3,0.30585086
+1,Orthogonal,False,1,3,0.31570348
+1,Multitask,False,1,1,0.30141497
+1,Projection,False,0.01,1,0.32567212
+1,Projection,False,1,1,0.30305317
+1,Weighted cosine,False,0.01,1,0.30500388
+1,Weighted cosine,False,1,1,0.33308962
+1,Unweighted cosine,False,0.01,1,0.31104243
+1,Unweighted cosine,False,1,1,0.30635718
+1,Orthogonal,False,0.01,1,0.3031217
+1,Orthogonal,False,1,1,0.29797524
+2,Single task,False,1,0,0.29996824
+2,Multitask,False,1,300,0.6555807
+2,Projection,False,0.01,300,0.3030968
+2,Projection,False,1,300,0.59140813
+2,Weighted cosine,False,0.01,300,0.31829876
+2,Weighted cosine,False,1,300,0.29815093
+2,Unweighted cosine,False,0.01,300,0.3145758
+2,Unweighted cosine,False,1,300,0.30676243
+2,Orthogonal,False,0.01,300,0.30429077
+2,Orthogonal,False,1,300,0.58450556
+2,Multitask,False,1,100,0.45486695
+2,Projection,False,0.01,100,0.29411784
+2,Projection,False,1,100,0.3627811
+2,Weighted cosine,False,0.01,100,0.32244816
+2,Weighted cosine,False,1,100,0.31067485
+2,Unweighted cosine,False,0.01,100,0.30034015
+2,Unweighted cosine,False,1,100,0.32477742
+2,Orthogonal,False,0.01,100,0.3045556
+2,Orthogonal,False,1,100,0.36760798
+2,Multitask,False,1,30,0.3128056
+2,Projection,False,0.01,30,0.30323538
+2,Projection,False,1,30,0.31999335
+2,Weighted cosine,False,0.01,30,0.3099964
+2,Weighted cosine,False,1,30,0.35413554
+2,Unweighted cosine,False,0.01,30,0.3194603
+2,Unweighted cosine,False,1,30,0.30188137
+2,Orthogonal,False,0.01,30,0.31420383
+2,Orthogonal,False,1,30,0.3170159
+2,Multitask,False,1,10,0.33906642
+2,Projection,False,0.01,10,0.3019187
+2,Projection,False,1,10,0.31990528
+2,Weighted cosine,False,0.01,10,0.296249
+2,Weighted cosine,False,1,10,0.30395845
+2,Unweighted cosine,False,0.01,10,0.31233504
+2,Unweighted cosine,False,1,10,0.29703575
+2,Orthogonal,False,0.01,10,0.31926852
+2,Orthogonal,False,1,10,0.3074728
+2,Multitask,False,1,3,0.30056217
+2,Projection,False,0.01,3,0.35378733
+2,Projection,False,1,3,0.28770065
+2,Weighted cosine,False,0.01,3,0.31945252
+2,Weighted cosine,False,1,3,0.29760772
+2,Unweighted cosine,False,0.01,3,0.31907052
+2,Unweighted cosine,False,1,3,0.3041213
+2,Orthogonal,False,0.01,3,0.29728425
+2,Orthogonal,False,1,3,0.33258054
+2,Multitask,False,1,1,0.32044765
+2,Projection,False,0.01,1,0.31694087
+2,Projection,False,1,1,0.2916774
+2,Weighted cosine,False,0.01,1,0.31415388
+2,Weighted cosine,False,1,1,0.3028718
+2,Unweighted cosine,False,0.01,1,0.3341193
+2,Unweighted cosine,False,1,1,0.3001863
+2,Orthogonal,False,0.01,1,0.33575913
+2,Orthogonal,False,1,1,0.31160513
+3,Single task,False,1,0,0.32650098
+3,Multitask,False,1,300,0.6430633
+3,Projection,False,0.01,300,0.3011783
+3,Projection,False,1,300,0.56847924
+3,Weighted cosine,False,0.01,300,0.301261
+3,Weighted cosine,False,1,300,0.30610958
+3,Unweighted cosine,False,0.01,300,0.3063936
+3,Unweighted cosine,False,1,300,0.324036
+3,Orthogonal,False,0.01,300,0.29891726
+3,Orthogonal,False,1,300,0.57566625
+3,Multitask,False,1,100,0.4529314
+3,Projection,False,0.01,100,0.29786146
+3,Projection,False,1,100,0.36534148
+3,Weighted cosine,False,0.01,100,0.3093385
+3,Weighted cosine,False,1,100,0.2948042
+3,Unweighted cosine,False,0.01,100,0.29982817
+3,Unweighted cosine,False,1,100,0.30121037
+3,Orthogonal,False,0.01,100,0.29891548
+3,Orthogonal,False,1,100,0.3566559
+3,Multitask,False,1,30,0.3077008
+3,Projection,False,0.01,30,0.30729437
+3,Projection,False,1,30,0.3138508
+3,Weighted cosine,False,0.01,30,0.30660716
+3,Weighted cosine,False,1,30,0.30688617
+3,Unweighted cosine,False,0.01,30,0.31094843
+3,Unweighted cosine,False,1,30,0.29624802
+3,Orthogonal,False,0.01,30,0.30682275
+3,Orthogonal,False,1,30,0.31632483
+3,Multitask,False,1,10,0.31738466
+3,Projection,False,0.01,10,0.29683512
+3,Projection,False,1,10,0.31446877
+3,Weighted cosine,False,0.01,10,0.35934561
+3,Weighted cosine,False,1,10,0.35104606
+3,Unweighted cosine,False,0.01,10,0.31087464
+3,Unweighted cosine,False,1,10,0.30682698
+3,Orthogonal,False,0.01,10,0.30865946
+3,Orthogonal,False,1,10,0.30201128
+3,Multitask,False,1,3,0.31520975
+3,Projection,False,0.01,3,0.3053716
+3,Projection,False,1,3,0.30291098
+3,Weighted cosine,False,0.01,3,0.29642203
+3,Weighted cosine,False,1,3,0.30223286
+3,Unweighted cosine,False,0.01,3,0.32779926
+3,Unweighted cosine,False,1,3,0.30674958
+3,Orthogonal,False,0.01,3,0.29851228
+3,Orthogonal,False,1,3,0.31340256
+3,Multitask,False,1,1,0.3130115
+3,Projection,False,0.01,1,0.337644
+3,Projection,False,1,1,0.30718565
+3,Weighted cosine,False,0.01,1,0.30684432
+3,Weighted cosine,False,1,1,0.3236651
+3,Unweighted cosine,False,0.01,1,0.30385253
+3,Unweighted cosine,False,1,1,0.32901016
+3,Orthogonal,False,0.01,1,0.2996016
+3,Orthogonal,False,1,1,0.291186
+4,Single task,False,1,0,0.29699782
+4,Multitask,False,1,300,0.6473886
+4,Projection,False,0.01,300,0.30944836
+4,Projection,False,1,300,0.5641809
+4,Weighted cosine,False,0.01,300,0.30555472
+4,Weighted cosine,False,1,300,0.29222548
+4,Unweighted cosine,False,0.01,300,0.29965714
+4,Unweighted cosine,False,1,300,0.31953254
+4,Orthogonal,False,0.01,300,0.3804688
+4,Orthogonal,False,1,300,0.5527749
+4,Multitask,False,1,100,0.44788015
+4,Projection,False,0.01,100,0.29912516
+4,Projection,False,1,100,0.35392827
+4,Weighted cosine,False,0.01,100,0.32354632
+4,Weighted cosine,False,1,100,0.29641685
+4,Unweighted cosine,False,0.01,100,0.29810548
+4,Unweighted cosine,False,1,100,0.30871862
+4,Orthogonal,False,0.01,100,0.29547924
+4,Orthogonal,False,1,100,0.37492493
+4,Multitask,False,1,30,0.3116746
+4,Projection,False,0.01,30,0.3014922
+4,Projection,False,1,30,0.32588235
+4,Weighted cosine,False,0.01,30,0.32399136
+4,Weighted cosine,False,1,30,0.2973847
+4,Unweighted cosine,False,0.01,30,0.2954316
+4,Unweighted cosine,False,1,30,0.30288675
+4,Orthogonal,False,0.01,30,0.32283285
+4,Orthogonal,False,1,30,0.3113153
+4,Multitask,False,1,10,0.30247813
+4,Projection,False,0.01,10,0.2941301
+4,Projection,False,1,10,0.32529923
+4,Weighted cosine,False,0.01,10,0.31877497
+4,Weighted cosine,False,1,10,0.31788233
+4,Unweighted cosine,False,0.01,10,0.33921352
+4,Unweighted cosine,False,1,10,0.29307735
+4,Orthogonal,False,0.01,10,0.33807603
+4,Orthogonal,False,1,10,0.34954384
+4,Multitask,False,1,3,0.32147893
+4,Projection,False,0.01,3,0.3036193
+4,Projection,False,1,3,0.33795193
+4,Weighted cosine,False,0.01,3,0.30066806
+4,Weighted cosine,False,1,3,0.31067368
+4,Unweighted cosine,False,0.01,3,0.36056563
+4,Unweighted cosine,False,1,3,0.30636862
+4,Orthogonal,False,0.01,3,0.32336676
+4,Orthogonal,False,1,3,0.2946486
+4,Multitask,False,1,1,0.3294866
+4,Projection,False,0.01,1,0.3104298
+4,Projection,False,1,1,0.30335483
+4,Weighted cosine,False,0.01,1,0.28907996
+4,Weighted cosine,False,1,1,0.30758068
+4,Unweighted cosine,False,0.01,1,0.29830095
+4,Unweighted cosine,False,1,1,0.33274078
+4,Orthogonal,False,0.01,1,0.3149293
+4,Orthogonal,False,1,1,0.3076394
+5,Single task,False,1,0,0.3291893
+5,Multitask,False,1,300,0.64314973
+5,Projection,False,0.01,300,0.32415742
+5,Projection,False,1,300,0.59498805
+5,Weighted cosine,False,0.01,300,0.29904974
+5,Weighted cosine,False,1,300,0.28886157
+5,Unweighted cosine,False,0.01,300,0.30930787
+5,Unweighted cosine,False,1,300,0.33127743
+5,Orthogonal,False,0.01,300,0.3243698
+5,Orthogonal,False,1,300,0.5835313
+5,Multitask,False,1,100,0.4510656
+5,Projection,False,0.01,100,0.3073489
+5,Projection,False,1,100,0.35876355
+5,Weighted cosine,False,0.01,100,0.2986653
+5,Weighted cosine,False,1,100,0.31317866
+5,Unweighted cosine,False,0.01,100,0.30706754
+5,Unweighted cosine,False,1,100,0.2986359
+5,Orthogonal,False,0.01,100,0.29793906
+5,Orthogonal,False,1,100,0.35792214
+5,Multitask,False,1,30,0.30956098
+5,Projection,False,0.01,30,0.3023199
+5,Projection,False,1,30,0.3139032
+5,Weighted cosine,False,0.01,30,0.3039178
+5,Weighted cosine,False,1,30,0.29804176
+5,Unweighted cosine,False,0.01,30,0.29849467
+5,Unweighted cosine,False,1,30,0.30701563
+5,Orthogonal,False,0.01,30,0.31763247
+5,Orthogonal,False,1,30,0.3070672
+5,Multitask,False,1,10,0.30845246
+5,Projection,False,0.01,10,0.3068292
+5,Projection,False,1,10,0.30252486
+5,Weighted cosine,False,0.01,10,0.3055294
+5,Weighted cosine,False,1,10,0.30554962
+5,Unweighted cosine,False,0.01,10,0.30266607
+5,Unweighted cosine,False,1,10,0.29698467
+5,Orthogonal,False,0.01,10,0.33375546
+5,Orthogonal,False,1,10,0.31155527
+5,Multitask,False,1,3,0.2931935
+5,Projection,False,0.01,3,0.29740345
+5,Projection,False,1,3,0.30747035
+5,Weighted cosine,False,0.01,3,0.30742425
+5,Weighted cosine,False,1,3,0.30225188
+5,Unweighted cosine,False,0.01,3,0.29506403
+5,Unweighted cosine,False,1,3,0.34531203
+5,Orthogonal,False,0.01,3,0.30248454
+5,Orthogonal,False,1,3,0.29666835
+5,Multitask,False,1,1,0.2986074
+5,Projection,False,0.01,1,0.3026641
+5,Projection,False,1,1,0.28998348
+5,Weighted cosine,False,0.01,1,0.2928677
+5,Weighted cosine,False,1,1,0.30552846
+5,Unweighted cosine,False,0.01,1,0.33459747
+5,Unweighted cosine,False,1,1,0.2974146
+5,Orthogonal,False,0.01,1,0.29950055
+5,Orthogonal,False,1,1,0.3040318
+6,Single task,False,1,0,0.2994421
+6,Multitask,False,1,300,0.655863
+6,Projection,False,0.01,300,0.3829097
+6,Projection,False,1,300,0.5620619
+6,Weighted cosine,False,0.01,300,0.32225603
+6,Weighted cosine,False,1,300,0.29706845
+6,Unweighted cosine,False,0.01,300,0.31363413
+6,Unweighted cosine,False,1,300,0.32062727
+6,Orthogonal,False,0.01,300,0.3076863
+6,Orthogonal,False,1,300,0.5849477
+6,Multitask,False,1,100,0.444775
+6,Projection,False,0.01,100,0.293365
+6,Projection,False,1,100,0.36729172
+6,Weighted cosine,False,0.01,100,0.32186475
+6,Weighted cosine,False,1,100,0.29207948
+6,Unweighted cosine,False,0.01,100,0.30760485
+6,Unweighted cosine,False,1,100,0.31932923
+6,Orthogonal,False,0.01,100,0.3080949
+6,Orthogonal,False,1,100,0.3696634
+6,Multitask,False,1,30,0.31841308
+6,Projection,False,0.01,30,0.3090664
+6,Projection,False,1,30,0.31974694
+6,Weighted cosine,False,0.01,30,0.29774424
+6,Weighted cosine,False,1,30,0.2933655
+6,Unweighted cosine,False,0.01,30,0.2908279
+6,Unweighted cosine,False,1,30,0.32830662
+6,Orthogonal,False,0.01,30,0.30881977
+6,Orthogonal,False,1,30,0.31449956
+6,Multitask,False,1,10,0.32581934
+6,Projection,False,0.01,10,0.31705332
+6,Projection,False,1,10,0.2941264
+6,Weighted cosine,False,0.01,10,0.31190956
+6,Weighted cosine,False,1,10,0.30005893
+6,Unweighted cosine,False,0.01,10,0.33218968
+6,Unweighted cosine,False,1,10,0.30372322
+6,Orthogonal,False,0.01,10,0.30066457
+6,Orthogonal,False,1,10,0.29406315
+6,Multitask,False,1,3,0.28922153
+6,Projection,False,0.01,3,0.31173903
+6,Projection,False,1,3,0.30758762
+6,Weighted cosine,False,0.01,3,0.31128195
+6,Weighted cosine,False,1,3,0.30580708
+6,Unweighted cosine,False,0.01,3,0.31203708
+6,Unweighted cosine,False,1,3,0.32966983
+6,Orthogonal,False,0.01,3,0.34276676
+6,Orthogonal,False,1,3,0.30224946
+6,Multitask,False,1,1,0.30120283
+6,Projection,False,0.01,1,0.29098147
+6,Projection,False,1,1,0.3501443
+6,Weighted cosine,False,0.01,1,0.29587275
+6,Weighted cosine,False,1,1,0.34948915
+6,Unweighted cosine,False,0.01,1,0.29909566
+6,Unweighted cosine,False,1,1,0.29689962
+6,Orthogonal,False,0.01,1,0.29292768
+6,Orthogonal,False,1,1,0.30128446
+7,Single task,False,1,0,0.3201377
+7,Multitask,False,1,300,0.6642105
+7,Projection,False,0.01,300,0.31898358
+7,Projection,False,1,300,0.5613551
+7,Weighted cosine,False,0.01,300,0.3135776
+7,Weighted cosine,False,1,300,0.30689806
+7,Unweighted cosine,False,0.01,300,0.30231565
+7,Unweighted cosine,False,1,300,0.31667513
+7,Orthogonal,False,0.01,300,0.30030867
+7,Orthogonal,False,1,300,0.58146596
+7,Multitask,False,1,100,0.44504493
+7,Projection,False,0.01,100,0.29336825
+7,Projection,False,1,100,0.3735774
+7,Weighted cosine,False,0.01,100,0.30111492
+7,Weighted cosine,False,1,100,0.2918627
+7,Unweighted cosine,False,0.01,100,0.34160462
+7,Unweighted cosine,False,1,100,0.32278517
+7,Orthogonal,False,0.01,100,0.3304768
+7,Orthogonal,False,1,100,0.34940663
+7,Multitask,False,1,30,0.30378026
+7,Projection,False,0.01,30,0.31420115
+7,Projection,False,1,30,0.31247082
+7,Weighted cosine,False,0.01,30,0.29785648
+7,Weighted cosine,False,1,30,0.33533686
+7,Unweighted cosine,False,0.01,30,0.3093614
+7,Unweighted cosine,False,1,30,0.30025157
+7,Orthogonal,False,0.01,30,0.31476146
+7,Orthogonal,False,1,30,0.3058032
+7,Multitask,False,1,10,0.32370642
+7,Projection,False,0.01,10,0.30780193
+7,Projection,False,1,10,0.3028973
+7,Weighted cosine,False,0.01,10,0.30336025
+7,Weighted cosine,False,1,10,0.30607852
+7,Unweighted cosine,False,0.01,10,0.30269012
+7,Unweighted cosine,False,1,10,0.2941143
+7,Orthogonal,False,0.01,10,0.3053782
+7,Orthogonal,False,1,10,0.34734875
+7,Multitask,False,1,3,0.31359172
+7,Projection,False,0.01,3,0.29482025
+7,Projection,False,1,3,0.34192556
+7,Weighted cosine,False,0.01,3,0.2991928
+7,Weighted cosine,False,1,3,0.3335195
+7,Unweighted cosine,False,0.01,3,0.31205907
+7,Unweighted cosine,False,1,3,0.33341953
+7,Orthogonal,False,0.01,3,0.3562066
+7,Orthogonal,False,1,3,0.2989602
+7,Multitask,False,1,1,0.2988234
+7,Projection,False,0.01,1,0.32390597
+7,Projection,False,1,1,0.30597875
+7,Weighted cosine,False,0.01,1,0.32332513
+7,Weighted cosine,False,1,1,0.30419594
+7,Unweighted cosine,False,0.01,1,0.32294282
+7,Unweighted cosine,False,1,1,0.35234672
+7,Orthogonal,False,0.01,1,0.32371145
+7,Orthogonal,False,1,1,0.35399
+8,Single task,False,1,0,0.3198897
+8,Multitask,False,1,300,0.64661777
+8,Projection,False,0.01,300,0.3222709
+8,Projection,False,1,300,0.57822853
+8,Weighted cosine,False,0.01,300,0.297444
+8,Weighted cosine,False,1,300,0.30844688
+8,Unweighted cosine,False,0.01,300,0.3122637
+8,Unweighted cosine,False,1,300,0.30665612
+8,Orthogonal,False,0.01,300,0.30832407
+8,Orthogonal,False,1,300,0.59625435
+8,Multitask,False,1,100,0.4634946
+8,Projection,False,0.01,100,0.30646086
+8,Projection,False,1,100,0.35068458
+8,Weighted cosine,False,0.01,100,0.31000325
+8,Weighted cosine,False,1,100,0.30665672
+8,Unweighted cosine,False,0.01,100,0.2994066
+8,Unweighted cosine,False,1,100,0.3409298
+8,Orthogonal,False,0.01,100,0.29011458
+8,Orthogonal,False,1,100,0.36816818
+8,Multitask,False,1,30,0.30793804
+8,Projection,False,0.01,30,0.319385
+8,Projection,False,1,30,0.321296
+8,Weighted cosine,False,0.01,30,0.29785115
+8,Weighted cosine,False,1,30,0.31822667
+8,Unweighted cosine,False,0.01,30,0.303391
+8,Unweighted cosine,False,1,30,0.30412853
+8,Orthogonal,False,0.01,30,0.31374103
+8,Orthogonal,False,1,30,0.30883324
+8,Multitask,False,1,10,0.29751578
+8,Projection,False,0.01,10,0.30876297
+8,Projection,False,1,10,0.31541458
+8,Weighted cosine,False,0.01,10,0.32374057
+8,Weighted cosine,False,1,10,0.2935601
+8,Unweighted cosine,False,0.01,10,0.34604105
+8,Unweighted cosine,False,1,10,0.30273676
+8,Orthogonal,False,0.01,10,0.30683902
+8,Orthogonal,False,1,10,0.30810103
+8,Multitask,False,1,3,0.3018151
+8,Projection,False,0.01,3,0.30979872
+8,Projection,False,1,3,0.29751673
+8,Weighted cosine,False,0.01,3,0.29233244
+8,Weighted cosine,False,1,3,0.3500668
+8,Unweighted cosine,False,0.01,3,0.3121562
+8,Unweighted cosine,False,1,3,0.3543047
+8,Orthogonal,False,0.01,3,0.3034195
+8,Orthogonal,False,1,3,0.3306564
+8,Multitask,False,1,1,0.295101
+8,Projection,False,0.01,1,0.3051525
+8,Projection,False,1,1,0.31159168
+8,Weighted cosine,False,0.01,1,0.30125582
+8,Weighted cosine,False,1,1,0.30422437
+8,Unweighted cosine,False,0.01,1,0.30155802
+8,Unweighted cosine,False,1,1,0.3017357
+8,Orthogonal,False,0.01,1,0.31336898
+8,Orthogonal,False,1,1,0.33250454
+9,Single task,False,1,0,0.3010964
+9,Multitask,False,1,300,0.64327186
+9,Projection,False,0.01,300,0.30014026
+9,Projection,False,1,300,0.5839213
+9,Weighted cosine,False,0.01,300,0.3095262
+9,Weighted cosine,False,1,300,0.30159122
+9,Unweighted cosine,False,0.01,300,0.2948339
+9,Unweighted cosine,False,1,300,0.33640203
+9,Orthogonal,False,0.01,300,0.30811796
+9,Orthogonal,False,1,300,0.58502966
+9,Multitask,False,1,100,0.45284668
+9,Projection,False,0.01,100,0.29178172
+9,Projection,False,1,100,0.35980478
+9,Weighted cosine,False,0.01,100,0.3273363
+9,Weighted cosine,False,1,100,0.3189985
+9,Unweighted cosine,False,0.01,100,0.30380306
+9,Unweighted cosine,False,1,100,0.3018966
+9,Orthogonal,False,0.01,100,0.29322314
+9,Orthogonal,False,1,100,0.35613444
+9,Multitask,False,1,30,0.30921188
+9,Projection,False,0.01,30,0.30833983
+9,Projection,False,1,30,0.31468585
+9,Weighted cosine,False,0.01,30,0.34715062
+9,Weighted cosine,False,1,30,0.31537446
+9,Unweighted cosine,False,0.01,30,0.3073551
+9,Unweighted cosine,False,1,30,0.32547152
+9,Orthogonal,False,0.01,30,0.33078554
+9,Orthogonal,False,1,30,0.31519255
+9,Multitask,False,1,10,0.3020502
+9,Projection,False,0.01,10,0.297508
+9,Projection,False,1,10,0.31717294
+9,Weighted cosine,False,0.01,10,0.33083493
+9,Weighted cosine,False,1,10,0.2980482
+9,Unweighted cosine,False,0.01,10,0.2987932
+9,Unweighted cosine,False,1,10,0.29431134
+9,Orthogonal,False,0.01,10,0.2988545
+9,Orthogonal,False,1,10,0.3254609
+9,Multitask,False,1,3,0.30386403
+9,Projection,False,0.01,3,0.30290586
+9,Projection,False,1,3,0.32374224
+9,Weighted cosine,False,0.01,3,0.32735088
+9,Weighted cosine,False,1,3,0.29616216
+9,Unweighted cosine,False,0.01,3,0.29900274
+9,Unweighted cosine,False,1,3,0.30269474
+9,Orthogonal,False,0.01,3,0.29914153
+9,Orthogonal,False,1,3,0.30026
+9,Multitask,False,1,1,0.29803374
+9,Projection,False,0.01,1,0.3353488
+9,Projection,False,1,1,0.31217423
+9,Weighted cosine,False,0.01,1,0.32274646
+9,Weighted cosine,False,1,1,0.30003303
+9,Unweighted cosine,False,0.01,1,0.3095853
+9,Unweighted cosine,False,1,1,0.30913895
+9,Orthogonal,False,0.01,1,0.30426908
+9,Orthogonal,False,1,1,0.3139834
+10,Single task,False,1,0,0.30540028
+10,Multitask,False,1,300,0.65261924
+10,Projection,False,0.01,300,0.30748054
+10,Projection,False,1,300,0.57661766
+10,Weighted cosine,False,0.01,300,0.31366977
+10,Weighted cosine,False,1,300,0.30869177
+10,Unweighted cosine,False,0.01,300,0.29912582
+10,Unweighted cosine,False,1,300,0.291854
+10,Orthogonal,False,0.01,300,0.31589043
+10,Orthogonal,False,1,300,0.6016562
+10,Multitask,False,1,100,0.4524582
+10,Projection,False,0.01,100,0.3088887
+10,Projection,False,1,100,0.37751496
+10,Weighted cosine,False,0.01,100,0.29728183
+10,Weighted cosine,False,1,100,0.2971047
+10,Unweighted cosine,False,0.01,100,0.30163386
+10,Unweighted cosine,False,1,100,0.31693253
+10,Orthogonal,False,0.01,100,0.3039614
+10,Orthogonal,False,1,100,0.3521911
+10,Multitask,False,1,30,0.30663475
+10,Projection,False,0.01,30,0.30958787
+10,Projection,False,1,30,0.31632885
+10,Weighted cosine,False,0.01,30,0.30469608
+10,Weighted cosine,False,1,30,0.3049364
+10,Unweighted cosine,False,0.01,30,0.3022127
+10,Unweighted cosine,False,1,30,0.3069392
+10,Orthogonal,False,0.01,30,0.3255664
+10,Orthogonal,False,1,30,0.30791014
+10,Multitask,False,1,10,0.31697175
+10,Projection,False,0.01,10,0.30361542
+10,Projection,False,1,10,0.32451326
+10,Weighted cosine,False,0.01,10,0.31156722
+10,Weighted cosine,False,1,10,0.34485063
+10,Unweighted cosine,False,0.01,10,0.32476944
+10,Unweighted cosine,False,1,10,0.343137
+10,Orthogonal,False,0.01,10,0.3013442
+10,Orthogonal,False,1,10,0.34167457
+10,Multitask,False,1,3,0.31005046
+10,Projection,False,0.01,3,0.33493719
+10,Projection,False,1,3,0.2908381
+10,Weighted cosine,False,0.01,3,0.30374366
+10,Weighted cosine,False,1,3,0.3078834
+10,Unweighted cosine,False,0.01,3,0.3119915
+10,Unweighted cosine,False,1,3,0.29318804
+10,Orthogonal,False,0.01,3,0.31417683
+10,Orthogonal,False,1,3,0.29662105
+10,Multitask,False,1,1,0.35727203
+10,Projection,False,0.01,1,0.36490813
+10,Projection,False,1,1,0.30728355
+10,Weighted cosine,False,0.01,1,0.2952061
+10,Weighted cosine,False,1,1,0.2932824
+10,Unweighted cosine,False,0.01,1,0.3076663
+10,Unweighted cosine,False,1,1,0.30274528
+10,Orthogonal,False,0.01,1,0.31936786
+10,Orthogonal,False,1,1,0.31403485
+11,Single task,False,1,0,0.29990298
+11,Multitask,False,1,300,0.6417471
+11,Projection,False,0.01,300,0.31493348
+11,Projection,False,1,300,0.5744637
+11,Weighted cosine,False,0.01,300,0.30134103
+11,Weighted cosine,False,1,300,0.294682
+11,Unweighted cosine,False,0.01,300,0.2963821
+11,Unweighted cosine,False,1,300,0.33669025
+11,Orthogonal,False,0.01,300,0.31520995
+11,Orthogonal,False,1,300,0.5709744
+11,Multitask,False,1,100,0.44228134
+11,Projection,False,0.01,100,0.3001182
+11,Projection,False,1,100,0.3740036
+11,Weighted cosine,False,0.01,100,0.30422476
+11,Weighted cosine,False,1,100,0.30048296
+11,Unweighted cosine,False,0.01,100,0.29710275
+11,Unweighted cosine,False,1,100,0.29916015
+11,Orthogonal,False,0.01,100,0.29547724
+11,Orthogonal,False,1,100,0.40362993
+11,Multitask,False,1,30,0.3155076
+11,Projection,False,0.01,30,0.3001772
+11,Projection,False,1,30,0.30474132
+11,Weighted cosine,False,0.01,30,0.3031319
+11,Weighted cosine,False,1,30,0.29004136
+11,Unweighted cosine,False,0.01,30,0.30652726
+11,Unweighted cosine,False,1,30,0.29969278
+11,Orthogonal,False,0.01,30,0.30458713
+11,Orthogonal,False,1,30,0.3166852
+11,Multitask,False,1,10,0.31234157
+11,Projection,False,0.01,10,0.30081096
+11,Projection,False,1,10,0.29501748
+11,Weighted cosine,False,0.01,10,0.2980056
+11,Weighted cosine,False,1,10,0.36903664
+11,Unweighted cosine,False,0.01,10,0.3143858
+11,Unweighted cosine,False,1,10,0.29932353
+11,Orthogonal,False,0.01,10,0.29598802
+11,Orthogonal,False,1,10,0.2995658
+11,Multitask,False,1,3,0.29884362
+11,Projection,False,0.01,3,0.29991135
+11,Projection,False,1,3,0.32176316
+11,Weighted cosine,False,0.01,3,0.29947686
+11,Weighted cosine,False,1,3,0.30505097
+11,Unweighted cosine,False,0.01,3,0.30019796
+11,Unweighted cosine,False,1,3,0.2983893
+11,Orthogonal,False,0.01,3,0.29663303
+11,Orthogonal,False,1,3,0.31742388
+11,Multitask,False,1,1,0.34436047
+11,Projection,False,0.01,1,0.34562835
+11,Projection,False,1,1,0.3057323
+11,Weighted cosine,False,0.01,1,0.30284348
+11,Weighted cosine,False,1,1,0.30113053
+11,Unweighted cosine,False,0.01,1,0.29743582
+11,Unweighted cosine,False,1,1,0.30841458
+11,Orthogonal,False,0.01,1,0.33158547
+11,Orthogonal,False,1,1,0.2923515
+12,Single task,False,1,0,0.36465856
+12,Multitask,False,1,300,0.6585821
+12,Projection,False,0.01,300,0.32033995
+12,Projection,False,1,300,0.58641344
+12,Weighted cosine,False,0.01,300,0.29911467
+12,Weighted cosine,False,1,300,0.31019524
+12,Unweighted cosine,False,0.01,300,0.30764052
+12,Unweighted cosine,False,1,300,0.30846223
+12,Orthogonal,False,0.01,300,0.3057785
+12,Orthogonal,False,1,300,0.57257795
+12,Multitask,False,1,100,0.44858876
+12,Projection,False,0.01,100,0.29130042
+12,Projection,False,1,100,0.36807063
+12,Weighted cosine,False,0.01,100,0.30119678
+12,Weighted cosine,False,1,100,0.2955972
+12,Unweighted cosine,False,0.01,100,0.29764703
+12,Unweighted cosine,False,1,100,0.30880135
+12,Orthogonal,False,0.01,100,0.29911548
+12,Orthogonal,False,1,100,0.36649278
+12,Multitask,False,1,30,0.30104992
+12,Projection,False,0.01,30,0.29947972
+12,Projection,False,1,30,0.30181435
+12,Weighted cosine,False,0.01,30,0.31389043
+12,Weighted cosine,False,1,30,0.30047593
+12,Unweighted cosine,False,0.01,30,0.30300954
+12,Unweighted cosine,False,1,30,0.31191713
+12,Orthogonal,False,0.01,30,0.30350265
+12,Orthogonal,False,1,30,0.32092038
+12,Multitask,False,1,10,0.30247393
+12,Projection,False,0.01,10,0.3088578
+12,Projection,False,1,10,0.29861
+12,Weighted cosine,False,0.01,10,0.3246095
+12,Weighted cosine,False,1,10,0.29283258
+12,Unweighted cosine,False,0.01,10,0.29642585
+12,Unweighted cosine,False,1,10,0.3112611
+12,Orthogonal,False,0.01,10,0.29798374
+12,Orthogonal,False,1,10,0.29575956
+12,Multitask,False,1,3,0.34155926
+12,Projection,False,0.01,3,0.31870306
+12,Projection,False,1,3,0.29821146
+12,Weighted cosine,False,0.01,3,0.29669356
+12,Weighted cosine,False,1,3,0.3017183
+12,Unweighted cosine,False,0.01,3,0.3194322
+12,Unweighted cosine,False,1,3,0.31180647
+12,Orthogonal,False,0.01,3,0.30683935
+12,Orthogonal,False,1,3,0.30110422
+12,Multitask,False,1,1,0.298624
+12,Projection,False,0.01,1,0.30682614
+12,Projection,False,1,1,0.3037806
+12,Weighted cosine,False,0.01,1,0.2936909
+12,Weighted cosine,False,1,1,0.30536205
+12,Unweighted cosine,False,0.01,1,0.299995
+12,Unweighted cosine,False,1,1,0.37070468
+12,Orthogonal,False,0.01,1,0.29227707
+12,Orthogonal,False,1,1,0.29988706
+13,Single task,False,1,0,0.31265154
+13,Multitask,False,1,300,0.6369999
+13,Projection,False,0.01,300,0.3436382
+13,Projection,False,1,300,0.5801662
+13,Weighted cosine,False,0.01,300,0.29766133
+13,Weighted cosine,False,1,300,0.32222852
+13,Unweighted cosine,False,0.01,300,0.30457288
+13,Unweighted cosine,False,1,300,0.32206833
+13,Orthogonal,False,0.01,300,0.30745593
+13,Orthogonal,False,1,300,0.57270694
+13,Multitask,False,1,100,0.4507056
+13,Projection,False,0.01,100,0.3088111
+13,Projection,False,1,100,0.36470297
+13,Weighted cosine,False,0.01,100,0.3061432
+13,Weighted cosine,False,1,100,0.30403954
+13,Unweighted cosine,False,0.01,100,0.3023599
+13,Unweighted cosine,False,1,100,0.29969782
+13,Orthogonal,False,0.01,100,0.3154932
+13,Orthogonal,False,1,100,0.3770418
+13,Multitask,False,1,30,0.3123868
+13,Projection,False,0.01,30,0.32318184
+13,Projection,False,1,30,0.31713298
+13,Weighted cosine,False,0.01,30,0.30962235
+13,Weighted cosine,False,1,30,0.2908145
+13,Unweighted cosine,False,0.01,30,0.2976715
+13,Unweighted cosine,False,1,30,0.32895824
+13,Orthogonal,False,0.01,30,0.2944782
+13,Orthogonal,False,1,30,0.3111949
+13,Multitask,False,1,10,0.31659445
+13,Projection,False,0.01,10,0.3017689
+13,Projection,False,1,10,0.33694938
+13,Weighted cosine,False,0.01,10,0.3104815
+13,Weighted cosine,False,1,10,0.36460844
+13,Unweighted cosine,False,0.01,10,0.29996
+13,Unweighted cosine,False,1,10,0.30434167
+13,Orthogonal,False,0.01,10,0.30403134
+13,Orthogonal,False,1,10,0.3167569
+13,Multitask,False,1,3,0.30459815
+13,Projection,False,0.01,3,0.30159461
+13,Projection,False,1,3,0.29099318
+13,Weighted cosine,False,0.01,3,0.3017965
+13,Weighted cosine,False,1,3,0.3004854
+13,Unweighted cosine,False,0.01,3,0.30179065
+13,Unweighted cosine,False,1,3,0.30043805
+13,Orthogonal,False,0.01,3,0.3199643
+13,Orthogonal,False,1,3,0.3041822
+13,Multitask,False,1,1,0.32316652
+13,Projection,False,0.01,1,0.3046636
+13,Projection,False,1,1,0.30692008
+13,Weighted cosine,False,0.01,1,0.3578203
+13,Weighted cosine,False,1,1,0.29488274
+13,Unweighted cosine,False,0.01,1,0.33604586
+13,Unweighted cosine,False,1,1,0.3092683
+13,Orthogonal,False,0.01,1,0.3009584
+13,Orthogonal,False,1,1,0.304486
+14,Single task,False,1,0,0.29184747
+14,Multitask,False,1,300,0.6504269
+14,Projection,False,0.01,300,0.31331563
+14,Projection,False,1,300,0.5817848
+14,Weighted cosine,False,0.01,300,0.34215358
+14,Weighted cosine,False,1,300,0.3262341
+14,Unweighted cosine,False,0.01,300,0.3122377
+14,Unweighted cosine,False,1,300,0.32939032
+14,Orthogonal,False,0.01,300,0.3740385
+14,Orthogonal,False,1,300,0.5602946
+14,Multitask,False,1,100,0.44614184
+14,Projection,False,0.01,100,0.29919973
+14,Projection,False,1,100,0.36936405
+14,Weighted cosine,False,0.01,100,0.3045908
+14,Weighted cosine,False,1,100,0.2992546
+14,Unweighted cosine,False,0.01,100,0.2982726
+14,Unweighted cosine,False,1,100,0.33446953
+14,Orthogonal,False,0.01,100,0.31116053
+14,Orthogonal,False,1,100,0.3769311
+14,Multitask,False,1,30,0.30691165
+14,Projection,False,0.01,30,0.3046959
+14,Projection,False,1,30,0.3128757
+14,Weighted cosine,False,0.01,30,0.30598187
+14,Weighted cosine,False,1,30,0.29802287
+14,Unweighted cosine,False,0.01,30,0.2994197
+14,Unweighted cosine,False,1,30,0.3194464
+14,Orthogonal,False,0.01,30,0.30285683
+14,Orthogonal,False,1,30,0.3155237
+14,Multitask,False,1,10,0.30951956
+14,Projection,False,0.01,10,0.34957346
+14,Projection,False,1,10,0.29083815
+14,Weighted cosine,False,0.01,10,0.29555365
+14,Weighted cosine,False,1,10,0.30910257
+14,Unweighted cosine,False,0.01,10,0.30683663
+14,Unweighted cosine,False,1,10,0.2950804
+14,Orthogonal,False,0.01,10,0.30238432
+14,Orthogonal,False,1,10,0.3315081
+14,Multitask,False,1,3,0.3162658
+14,Projection,False,0.01,3,0.30982992
+14,Projection,False,1,3,0.29864588
+14,Weighted cosine,False,0.01,3,0.30157784
+14,Weighted cosine,False,1,3,0.30467358
+14,Unweighted cosine,False,0.01,3,0.29526806
+14,Unweighted cosine,False,1,3,0.31267574
+14,Orthogonal,False,0.01,3,0.30645555
+14,Orthogonal,False,1,3,0.29748935
+14,Multitask,False,1,1,0.30551165
+14,Projection,False,0.01,1,0.3163686
+14,Projection,False,1,1,0.33975613
+14,Weighted cosine,False,0.01,1,0.29736394
+14,Weighted cosine,False,1,1,0.3221586
+14,Unweighted cosine,False,0.01,1,0.3133808
+14,Unweighted cosine,False,1,1,0.30192006
+14,Orthogonal,False,0.01,1,0.3258015
+14,Orthogonal,False,1,1,0.35612863
+15,Single task,False,1,0,0.3001546
+15,Multitask,False,1,300,0.62524194
+15,Projection,False,0.01,300,0.30541083
+15,Projection,False,1,300,0.5646283
+15,Weighted cosine,False,0.01,300,0.3156618
+15,Weighted cosine,False,1,300,0.29968467
+15,Unweighted cosine,False,0.01,300,0.29830337
+15,Unweighted cosine,False,1,300,0.32439283
+15,Orthogonal,False,0.01,300,0.33210427
+15,Orthogonal,False,1,300,0.58047366
+15,Multitask,False,1,100,0.45394817
+15,Projection,False,0.01,100,0.2908092
+15,Projection,False,1,100,0.37159434
+15,Weighted cosine,False,0.01,100,0.30294767
+15,Weighted cosine,False,1,100,0.3058862
+15,Unweighted cosine,False,0.01,100,0.2992351
+15,Unweighted cosine,False,1,100,0.31293622
+15,Orthogonal,False,0.01,100,0.29459858
+15,Orthogonal,False,1,100,0.3803008
+15,Multitask,False,1,30,0.30381992
+15,Projection,False,0.01,30,0.30976513
+15,Projection,False,1,30,0.3215166
+15,Weighted cosine,False,0.01,30,0.30347413
+15,Weighted cosine,False,1,30,0.31225792
+15,Unweighted cosine,False,0.01,30,0.29975927
+15,Unweighted cosine,False,1,30,0.31128478
+15,Orthogonal,False,0.01,30,0.30145386
+15,Orthogonal,False,1,30,0.30569723
+15,Multitask,False,1,10,0.3262294
+15,Projection,False,0.01,10,0.3051151
+15,Projection,False,1,10,0.30172944
+15,Weighted cosine,False,0.01,10,0.30172384
+15,Weighted cosine,False,1,10,0.3027253
+15,Unweighted cosine,False,0.01,10,0.3595567
+15,Unweighted cosine,False,1,10,0.33711267
+15,Orthogonal,False,0.01,10,0.29513818
+15,Orthogonal,False,1,10,0.30348438
+15,Multitask,False,1,3,0.30048844
+15,Projection,False,0.01,3,0.3459548
+15,Projection,False,1,3,0.30492318
+15,Weighted cosine,False,0.01,3,0.30502138
+15,Weighted cosine,False,1,3,0.2922111
+15,Unweighted cosine,False,0.01,3,0.30026093
+15,Unweighted cosine,False,1,3,0.30882904
+15,Orthogonal,False,0.01,3,0.3073216
+15,Orthogonal,False,1,3,0.29579833
+15,Multitask,False,1,1,0.31304345
+15,Projection,False,0.01,1,0.29321173
+15,Projection,False,1,1,0.29926553
+15,Weighted cosine,False,0.01,1,0.33455718
+15,Weighted cosine,False,1,1,0.2946467
+15,Unweighted cosine,False,0.01,1,0.30180258
+15,Unweighted cosine,False,1,1,0.29640487
+15,Orthogonal,False,0.01,1,0.31589
+15,Orthogonal,False,1,1,0.30651703
+16,Single task,False,1,0,0.36218813
+16,Multitask,False,1,300,0.6304184
+16,Projection,False,0.01,300,0.32980832
+16,Projection,False,1,300,0.55658907
+16,Weighted cosine,False,0.01,300,0.29672104
+16,Weighted cosine,False,1,300,0.3056717
+16,Unweighted cosine,False,0.01,300,0.30123913
+16,Unweighted cosine,False,1,300,0.33385617
+16,Orthogonal,False,0.01,300,0.3020338
+16,Orthogonal,False,1,300,0.5868735
+16,Multitask,False,1,100,0.4505014
+16,Projection,False,0.01,100,0.29190046
+16,Projection,False,1,100,0.36879554
+16,Weighted cosine,False,0.01,100,0.30638143
+16,Weighted cosine,False,1,100,0.31851867
+16,Unweighted cosine,False,0.01,100,0.31046137
+16,Unweighted cosine,False,1,100,0.3026026
+16,Orthogonal,False,0.01,100,0.31895068
+16,Orthogonal,False,1,100,0.37640837
+16,Multitask,False,1,30,0.31044233
+16,Projection,False,0.01,30,0.31113926
+16,Projection,False,1,30,0.31371868
+16,Weighted cosine,False,0.01,30,0.31020528
+16,Weighted cosine,False,1,30,0.3111566
+16,Unweighted cosine,False,0.01,30,0.31704947
+16,Unweighted cosine,False,1,30,0.3000603
+16,Orthogonal,False,0.01,30,0.3117095
+16,Orthogonal,False,1,30,0.31433725
+16,Multitask,False,1,10,0.3453603
+16,Projection,False,0.01,10,0.29976702
+16,Projection,False,1,10,0.2965613
+16,Weighted cosine,False,0.01,10,0.32034338
+16,Weighted cosine,False,1,10,0.30014542
+16,Unweighted cosine,False,0.01,10,0.3029727
+16,Unweighted cosine,False,1,10,0.29636475
+16,Orthogonal,False,0.01,10,0.33074698
+16,Orthogonal,False,1,10,0.3036761
+16,Multitask,False,1,3,0.30436864
+16,Projection,False,0.01,3,0.30281353
+16,Projection,False,1,3,0.33625343
+16,Weighted cosine,False,0.01,3,0.29284826
+16,Weighted cosine,False,1,3,0.2978929
+16,Unweighted cosine,False,0.01,3,0.29987696
+16,Unweighted cosine,False,1,3,0.2956622
+16,Orthogonal,False,0.01,3,0.32459655
+16,Orthogonal,False,1,3,0.2992977
+16,Multitask,False,1,1,0.29749632
+16,Projection,False,0.01,1,0.31450716
+16,Projection,False,1,1,0.29554796
+16,Weighted cosine,False,0.01,1,0.3039639
+16,Weighted cosine,False,1,1,0.30024862
+16,Unweighted cosine,False,0.01,1,0.33293486
+16,Unweighted cosine,False,1,1,0.29599446
+16,Orthogonal,False,0.01,1,0.29909638
+16,Orthogonal,False,1,1,0.32912233
+17,Single task,False,1,0,0.29076743
+17,Multitask,False,1,300,0.65540093
+17,Projection,False,0.01,300,0.3096716
+17,Projection,False,1,300,0.585849
+17,Weighted cosine,False,0.01,300,0.30265683
+17,Weighted cosine,False,1,300,0.30354294
+17,Unweighted cosine,False,0.01,300,0.3049055
+17,Unweighted cosine,False,1,300,0.30967662
+17,Orthogonal,False,0.01,300,0.34893966
+17,Orthogonal,False,1,300,0.57522196
+17,Multitask,False,1,100,0.44706872
+17,Projection,False,0.01,100,0.29077542
+17,Projection,False,1,100,0.36754254
+17,Weighted cosine,False,0.01,100,0.3087039
+17,Weighted cosine,False,1,100,0.33044752
+17,Unweighted cosine,False,0.01,100,0.32088536
+17,Unweighted cosine,False,1,100,0.32966
+17,Orthogonal,False,0.01,100,0.29576507
+17,Orthogonal,False,1,100,0.36366484
+17,Multitask,False,1,30,0.30243143
+17,Projection,False,0.01,30,0.30504557
+17,Projection,False,1,30,0.31738177
+17,Weighted cosine,False,0.01,30,0.3369969
+17,Weighted cosine,False,1,30,0.2995302
+17,Unweighted cosine,False,0.01,30,0.30582565
+17,Unweighted cosine,False,1,30,0.35475665
+17,Orthogonal,False,0.01,30,0.3140982
+17,Orthogonal,False,1,30,0.30889958
+17,Multitask,False,1,10,0.32655573
+17,Projection,False,0.01,10,0.30399507
+17,Projection,False,1,10,0.31015447
+17,Weighted cosine,False,0.01,10,0.29493493
+17,Weighted cosine,False,1,10,0.29583183
+17,Unweighted cosine,False,0.01,10,0.29530573
+17,Unweighted cosine,False,1,10,0.296581
+17,Orthogonal,False,0.01,10,0.3036925
+17,Orthogonal,False,1,10,0.3147194
+17,Multitask,False,1,3,0.3020238
+17,Projection,False,0.01,3,0.30061796
+17,Projection,False,1,3,0.30443335
+17,Weighted cosine,False,0.01,3,0.31671727
+17,Weighted cosine,False,1,3,0.3001798
+17,Unweighted cosine,False,0.01,3,0.30452684
+17,Unweighted cosine,False,1,3,0.29465175
+17,Orthogonal,False,0.01,3,0.29515636
+17,Orthogonal,False,1,3,0.37357798
+17,Multitask,False,1,1,0.32411996
+17,Projection,False,0.01,1,0.32136276
+17,Projection,False,1,1,0.2978808
+17,Weighted cosine,False,0.01,1,0.30305105
+17,Weighted cosine,False,1,1,0.29690313
+17,Unweighted cosine,False,0.01,1,0.30333483
+17,Unweighted cosine,False,1,1,0.30964112
+17,Orthogonal,False,0.01,1,0.3037048
+17,Orthogonal,False,1,1,0.3044004
+18,Single task,False,1,0,0.30738148
+18,Multitask,False,1,300,0.6590522
+18,Projection,False,0.01,300,0.3319817
+18,Projection,False,1,300,0.5597088
+18,Weighted cosine,False,0.01,300,0.31058517
+18,Weighted cosine,False,1,300,0.2997694
+18,Unweighted cosine,False,0.01,300,0.34132382
+18,Unweighted cosine,False,1,300,0.33563757
+18,Orthogonal,False,0.01,300,0.30249706
+18,Orthogonal,False,1,300,0.56205523
+18,Multitask,False,1,100,0.44660357
+18,Projection,False,0.01,100,0.29806957
+18,Projection,False,1,100,0.3734767
+18,Weighted cosine,False,0.01,100,0.29319337
+18,Weighted cosine,False,1,100,0.29515743
+18,Unweighted cosine,False,0.01,100,0.3216426
+18,Unweighted cosine,False,1,100,0.29508042
+18,Orthogonal,False,0.01,100,0.29489776
+18,Orthogonal,False,1,100,0.37376752
+18,Multitask,False,1,30,0.31141683
+18,Projection,False,0.01,30,0.31428847
+18,Projection,False,1,30,0.31554925
+18,Weighted cosine,False,0.01,30,0.30346948
+18,Weighted cosine,False,1,30,0.31580016
+18,Unweighted cosine,False,0.01,30,0.2985557
+18,Unweighted cosine,False,1,30,0.3028729
+18,Orthogonal,False,0.01,30,0.30677804
+18,Orthogonal,False,1,30,0.31486082
+18,Multitask,False,1,10,0.31242612
+18,Projection,False,0.01,10,0.29566684
+18,Projection,False,1,10,0.29904208
+18,Weighted cosine,False,0.01,10,0.3184566
+18,Weighted cosine,False,1,10,0.2961898
+18,Unweighted cosine,False,0.01,10,0.33267024
+18,Unweighted cosine,False,1,10,0.3119981
+18,Orthogonal,False,0.01,10,0.3143695
+18,Orthogonal,False,1,10,0.29570746
+18,Multitask,False,1,3,0.29759863
+18,Projection,False,0.01,3,0.3033086
+18,Projection,False,1,3,0.32439372
+18,Weighted cosine,False,0.01,3,0.2965171
+18,Weighted cosine,False,1,3,0.35092264
+18,Unweighted cosine,False,0.01,3,0.31196663
+18,Unweighted cosine,False,1,3,0.29563457
+18,Orthogonal,False,0.01,3,0.35688147
+18,Orthogonal,False,1,3,0.3517707
+18,Multitask,False,1,1,0.3033693
+18,Projection,False,0.01,1,0.3147374
+18,Projection,False,1,1,0.30138996
+18,Weighted cosine,False,0.01,1,0.30072847
+18,Weighted cosine,False,1,1,0.304615
+18,Unweighted cosine,False,0.01,1,0.34264234
+18,Unweighted cosine,False,1,1,0.29193884
+18,Orthogonal,False,0.01,1,0.35288778
+18,Orthogonal,False,1,1,0.36425647
+19,Single task,False,1,0,0.3189573
+19,Multitask,False,1,300,0.6401088
+19,Projection,False,0.01,300,0.32492465
+19,Projection,False,1,300,0.5758251
+19,Weighted cosine,False,0.01,300,0.3264637
+19,Weighted cosine,False,1,300,0.28892544
+19,Unweighted cosine,False,0.01,300,0.30196255
+19,Unweighted cosine,False,1,300,0.293535
+19,Orthogonal,False,0.01,300,0.30671
+19,Orthogonal,False,1,300,0.56232876
+19,Multitask,False,1,100,0.45178378
+19,Projection,False,0.01,100,0.29387292
+19,Projection,False,1,100,0.37106836
+19,Weighted cosine,False,0.01,100,0.3094061
+19,Weighted cosine,False,1,100,0.29640272
+19,Unweighted cosine,False,0.01,100,0.33148757
+19,Unweighted cosine,False,1,100,0.30437985
+19,Orthogonal,False,0.01,100,0.29488552
+19,Orthogonal,False,1,100,0.3552715
+19,Multitask,False,1,30,0.31197453
+19,Projection,False,0.01,30,0.33183601
+19,Projection,False,1,30,0.31119725
+19,Weighted cosine,False,0.01,30,0.2986896
+19,Weighted cosine,False,1,30,0.28810874
+19,Unweighted cosine,False,0.01,30,0.3089332
+19,Unweighted cosine,False,1,30,0.295815
+19,Orthogonal,False,0.01,30,0.3132474
+19,Orthogonal,False,1,30,0.31749538
+19,Multitask,False,1,10,0.33352265
+19,Projection,False,0.01,10,0.3280032
+19,Projection,False,1,10,0.2959841
+19,Weighted cosine,False,0.01,10,0.29673713
+19,Weighted cosine,False,1,10,0.30814585
+19,Unweighted cosine,False,0.01,10,0.30376634
+19,Unweighted cosine,False,1,10,0.3406654
+19,Orthogonal,False,0.01,10,0.3099764
+19,Orthogonal,False,1,10,0.29791164
+19,Multitask,False,1,3,0.3076814
+19,Projection,False,0.01,3,0.31923142
+19,Projection,False,1,3,0.32620838
+19,Weighted cosine,False,0.01,3,0.29814222
+19,Weighted cosine,False,1,3,0.31210563
+19,Unweighted cosine,False,0.01,3,0.35217094
+19,Unweighted cosine,False,1,3,0.2985762
+19,Orthogonal,False,0.01,3,0.33571485
+19,Orthogonal,False,1,3,0.3006154
+19,Multitask,False,1,1,0.29220578
+19,Projection,False,0.01,1,0.3021741
+19,Projection,False,1,1,0.30756086
+19,Weighted cosine,False,0.01,1,0.29514277
+19,Weighted cosine,False,1,1,0.29800284
+19,Unweighted cosine,False,0.01,1,0.3126942
+19,Unweighted cosine,False,1,1,0.296839
+19,Orthogonal,False,0.01,1,0.33571544
+19,Orthogonal,False,1,1,0.2987087
+20,Single task,False,1,0,0.2998604
+20,Multitask,False,1,300,0.6461635
+20,Projection,False,0.01,300,0.30613866
+20,Projection,False,1,300,0.57352376
+20,Weighted cosine,False,0.01,300,0.30753392
+20,Weighted cosine,False,1,300,0.32368785
+20,Unweighted cosine,False,0.01,300,0.36096078
+20,Unweighted cosine,False,1,300,0.32843173
+20,Orthogonal,False,0.01,300,0.3489007
+20,Orthogonal,False,1,300,0.5695559
+20,Multitask,False,1,100,0.45214227
+20,Projection,False,0.01,100,0.2935685
+20,Projection,False,1,100,0.33919522
+20,Weighted cosine,False,0.01,100,0.29330802
+20,Weighted cosine,False,1,100,0.29643944
+20,Unweighted cosine,False,0.01,100,0.31716144
+20,Unweighted cosine,False,1,100,0.29459107
+20,Orthogonal,False,0.01,100,0.30919382
+20,Orthogonal,False,1,100,0.3793065
+20,Multitask,False,1,30,0.30425483
+20,Projection,False,0.01,30,0.3059586
+20,Projection,False,1,30,0.3179775
+20,Weighted cosine,False,0.01,30,0.3163198
+20,Weighted cosine,False,1,30,0.29508293
+20,Unweighted cosine,False,0.01,30,0.30997175
+20,Unweighted cosine,False,1,30,0.3090412
+20,Orthogonal,False,0.01,30,0.30169323
+20,Orthogonal,False,1,30,0.31736806
+20,Multitask,False,1,10,0.31437573
+20,Projection,False,0.01,10,0.30879012
+20,Projection,False,1,10,0.3087706
+20,Weighted cosine,False,0.01,10,0.3216595
+20,Weighted cosine,False,1,10,0.29765975
+20,Unweighted cosine,False,0.01,10,0.30254942
+20,Unweighted cosine,False,1,10,0.29976135
+20,Orthogonal,False,0.01,10,0.3166049
+20,Orthogonal,False,1,10,0.29595688
+20,Multitask,False,1,3,0.30174962
+20,Projection,False,0.01,3,0.30408636
+20,Projection,False,1,3,0.29701287
+20,Weighted cosine,False,0.01,3,0.35738719
+20,Weighted cosine,False,1,3,0.29585025
+20,Unweighted cosine,False,0.01,3,0.37123743
+20,Unweighted cosine,False,1,3,0.3230685
+20,Orthogonal,False,0.01,3,0.31224224
+20,Orthogonal,False,1,3,0.3096861
+20,Multitask,False,1,1,0.3182573
+20,Projection,False,0.01,1,0.29767844
+20,Projection,False,1,1,0.30153552
+20,Weighted cosine,False,0.01,1,0.31812957
+20,Weighted cosine,False,1,1,0.3108595
+20,Unweighted cosine,False,0.01,1,0.2933783
+20,Unweighted cosine,False,1,1,0.28904945
+20,Orthogonal,False,0.01,1,0.3042141
+20,Orthogonal,False,1,1,0.31593183
+21,Single task,False,1,0,0.34569168
+21,Multitask,False,1,300,0.63888013
+21,Projection,False,0.01,300,0.30203116
+21,Projection,False,1,300,0.60004705
+21,Weighted cosine,False,0.01,300,0.32116762
+21,Weighted cosine,False,1,300,0.29886055
+21,Unweighted cosine,False,0.01,300,0.31310222
+21,Unweighted cosine,False,1,300,0.32037503
+21,Orthogonal,False,0.01,300,0.31917048
+21,Orthogonal,False,1,300,0.5743617
+21,Multitask,False,1,100,0.4487986
+21,Projection,False,0.01,100,0.29228896
+21,Projection,False,1,100,0.36997473
+21,Weighted cosine,False,0.01,100,0.29629624
+21,Weighted cosine,False,1,100,0.32442594
+21,Unweighted cosine,False,0.01,100,0.30349043
+21,Unweighted cosine,False,1,100,0.31555167
+21,Orthogonal,False,0.01,100,0.31349388
+21,Orthogonal,False,1,100,0.35737437
+21,Multitask,False,1,30,0.31189102
+21,Projection,False,0.01,30,0.3006457
+21,Projection,False,1,30,0.32170996
+21,Weighted cosine,False,0.01,30,0.30725053
+21,Weighted cosine,False,1,30,0.28918356
+21,Unweighted cosine,False,0.01,30,0.31297892
+21,Unweighted cosine,False,1,30,0.3462696
+21,Orthogonal,False,0.01,30,0.31382295
+21,Orthogonal,False,1,30,0.3178429
+21,Multitask,False,1,10,0.3048266
+21,Projection,False,0.01,10,0.3080799
+21,Projection,False,1,10,0.2948982
+21,Weighted cosine,False,0.01,10,0.35439917
+21,Weighted cosine,False,1,10,0.30391696
+21,Unweighted cosine,False,0.01,10,0.2983711
+21,Unweighted cosine,False,1,10,0.2997045
+21,Orthogonal,False,0.01,10,0.3055851
+21,Orthogonal,False,1,10,0.30556265
+21,Multitask,False,1,3,0.338966
+21,Projection,False,0.01,3,0.30345574
+21,Projection,False,1,3,0.39665282
+21,Weighted cosine,False,0.01,3,0.321251
+21,Weighted cosine,False,1,3,0.31737158
+21,Unweighted cosine,False,0.01,3,0.30644464
+21,Unweighted cosine,False,1,3,0.35605228
+21,Orthogonal,False,0.01,3,0.29898903
+21,Orthogonal,False,1,3,0.33997336
+21,Multitask,False,1,1,0.29313138
+21,Projection,False,0.01,1,0.35840544
+21,Projection,False,1,1,0.30118918
+21,Weighted cosine,False,0.01,1,0.31628492
+21,Weighted cosine,False,1,1,0.30056092
+21,Unweighted cosine,False,0.01,1,0.3037052
+21,Unweighted cosine,False,1,1,0.35535175
+21,Orthogonal,False,0.01,1,0.29962465
+21,Orthogonal,False,1,1,0.3180132
+22,Single task,False,1,0,0.31991962
+22,Multitask,False,1,300,0.64785796
+22,Projection,False,0.01,300,0.3459094
+22,Projection,False,1,300,0.5554807
+22,Weighted cosine,False,0.01,300,0.29156053
+22,Weighted cosine,False,1,300,0.30758396
+22,Unweighted cosine,False,0.01,300,0.29970005
+22,Unweighted cosine,False,1,300,0.314151
+22,Orthogonal,False,0.01,300,0.30731255
+22,Orthogonal,False,1,300,0.5784564
+22,Multitask,False,1,100,0.4498939
+22,Projection,False,0.01,100,0.29682246
+22,Projection,False,1,100,0.35990945
+22,Weighted cosine,False,0.01,100,0.3033884
+22,Weighted cosine,False,1,100,0.31529105
+22,Unweighted cosine,False,0.01,100,0.32234964
+22,Unweighted cosine,False,1,100,0.29932442
+22,Orthogonal,False,0.01,100,0.30693063
+22,Orthogonal,False,1,100,0.3668816
+22,Multitask,False,1,30,0.3092485
+22,Projection,False,0.01,30,0.3173123
+22,Projection,False,1,30,0.3060928
+22,Weighted cosine,False,0.01,30,0.2997474
+22,Weighted cosine,False,1,30,0.30132297
+22,Unweighted cosine,False,0.01,30,0.30032125
+22,Unweighted cosine,False,1,30,0.29679325
+22,Orthogonal,False,0.01,30,0.31327313
+22,Orthogonal,False,1,30,0.30994666
+22,Multitask,False,1,10,0.29815653
+22,Projection,False,0.01,10,0.2994253
+22,Projection,False,1,10,0.31142807
+22,Weighted cosine,False,0.01,10,0.34645143
+22,Weighted cosine,False,1,10,0.30399644
+22,Unweighted cosine,False,0.01,10,0.35568348
+22,Unweighted cosine,False,1,10,0.29242238
+22,Orthogonal,False,0.01,10,0.35711956
+22,Orthogonal,False,1,10,0.31055173
+22,Multitask,False,1,3,0.31497926
+22,Projection,False,0.01,3,0.33215874
+22,Projection,False,1,3,0.3514179
+22,Weighted cosine,False,0.01,3,0.3028446
+22,Weighted cosine,False,1,3,0.30893415
+22,Unweighted cosine,False,0.01,3,0.32234204
+22,Unweighted cosine,False,1,3,0.29970956
+22,Orthogonal,False,0.01,3,0.306337
+22,Orthogonal,False,1,3,0.2989298
+22,Multitask,False,1,1,0.29980612
+22,Projection,False,0.01,1,0.3259247
+22,Projection,False,1,1,0.3051472
+22,Weighted cosine,False,0.01,1,0.3258857
+22,Weighted cosine,False,1,1,0.30006993
+22,Unweighted cosine,False,0.01,1,0.30258322
+22,Unweighted cosine,False,1,1,0.29831746
+22,Orthogonal,False,0.01,1,0.2972848
+22,Orthogonal,False,1,1,0.3027375
+23,Single task,False,1,0,0.29995954
+23,Multitask,False,1,300,0.65184754
+23,Projection,False,0.01,300,0.33076897
+23,Projection,False,1,300,0.5663594
+23,Weighted cosine,False,0.01,300,0.29337114
+23,Weighted cosine,False,1,300,0.32489964
+23,Unweighted cosine,False,0.01,300,0.30442578
+23,Unweighted cosine,False,1,300,0.30727446
+23,Orthogonal,False,0.01,300,0.30334887
+23,Orthogonal,False,1,300,0.5879119
+23,Multitask,False,1,100,0.44501093
+23,Projection,False,0.01,100,0.29723558
+23,Projection,False,1,100,0.3751403
+23,Weighted cosine,False,0.01,100,0.29648596
+23,Weighted cosine,False,1,100,0.31715763
+23,Unweighted cosine,False,0.01,100,0.29717487
+23,Unweighted cosine,False,1,100,0.31127825
+23,Orthogonal,False,0.01,100,0.29651397
+23,Orthogonal,False,1,100,0.36610985
+23,Multitask,False,1,30,0.30835542
+23,Projection,False,0.01,30,0.3028342
+23,Projection,False,1,30,0.32383522
+23,Weighted cosine,False,0.01,30,0.3269423
+23,Weighted cosine,False,1,30,0.31798112
+23,Unweighted cosine,False,0.01,30,0.30397314
+23,Unweighted cosine,False,1,30,0.3099224
+23,Orthogonal,False,0.01,30,0.31552142
+23,Orthogonal,False,1,30,0.3091907
+23,Multitask,False,1,10,0.31142706
+23,Projection,False,0.01,10,0.29970732
+23,Projection,False,1,10,0.299474
+23,Weighted cosine,False,0.01,10,0.3080021
+23,Weighted cosine,False,1,10,0.2933903
+23,Unweighted cosine,False,0.01,10,0.29780218
+23,Unweighted cosine,False,1,10,0.30493137
+23,Orthogonal,False,0.01,10,0.3414107
+23,Orthogonal,False,1,10,0.29978722
+23,Multitask,False,1,3,0.2953504
+23,Projection,False,0.01,3,0.3045493
+23,Projection,False,1,3,0.29929894
+23,Weighted cosine,False,0.01,3,0.39050105
+23,Weighted cosine,False,1,3,0.29968914
+23,Unweighted cosine,False,0.01,3,0.30617142
+23,Unweighted cosine,False,1,3,0.29713672
+23,Orthogonal,False,0.01,3,0.3180732
+23,Orthogonal,False,1,3,0.30965602
+23,Multitask,False,1,1,0.31964555
+23,Projection,False,0.01,1,0.34723133
+23,Projection,False,1,1,0.31301484
+23,Weighted cosine,False,0.01,1,0.32417682
+23,Weighted cosine,False,1,1,0.29928118
+23,Unweighted cosine,False,0.01,1,0.29219392
+23,Unweighted cosine,False,1,1,0.33183232
+23,Orthogonal,False,0.01,1,0.30003586
+23,Orthogonal,False,1,1,0.29953277
+24,Single task,False,1,0,0.29532778
+24,Multitask,False,1,300,0.66389734
+24,Projection,False,0.01,300,0.2984386
+24,Projection,False,1,300,0.5985126
+24,Weighted cosine,False,0.01,300,0.31204462
+24,Weighted cosine,False,1,300,0.30158883
+24,Unweighted cosine,False,0.01,300,0.30748048
+24,Unweighted cosine,False,1,300,0.3148963
+24,Orthogonal,False,0.01,300,0.30163223
+24,Orthogonal,False,1,300,0.575354
+24,Multitask,False,1,100,0.4430807
+24,Projection,False,0.01,100,0.31278422
+24,Projection,False,1,100,0.37549114
+24,Weighted cosine,False,0.01,100,0.29673034
+24,Weighted cosine,False,1,100,0.28835776
+24,Unweighted cosine,False,0.01,100,0.3478436
+24,Unweighted cosine,False,1,100,0.3085286
+24,Orthogonal,False,0.01,100,0.30696118
+24,Orthogonal,False,1,100,0.36056474
+24,Multitask,False,1,30,0.31331828
+24,Projection,False,0.01,30,0.3143977
+24,Projection,False,1,30,0.30746925
+24,Weighted cosine,False,0.01,30,0.3133263
+24,Weighted cosine,False,1,30,0.31492776
+24,Unweighted cosine,False,0.01,30,0.2939539
+24,Unweighted cosine,False,1,30,0.2936863
+24,Orthogonal,False,0.01,30,0.29957214
+24,Orthogonal,False,1,30,0.31229228
+24,Multitask,False,1,10,0.30652297
+24,Projection,False,0.01,10,0.3179938
+24,Projection,False,1,10,0.30951774
+24,Weighted cosine,False,0.01,10,0.29492876
+24,Weighted cosine,False,1,10,0.29346862
+24,Unweighted cosine,False,0.01,10,0.29947817
+24,Unweighted cosine,False,1,10,0.29516417
+24,Orthogonal,False,0.01,10,0.30957988
+24,Orthogonal,False,1,10,0.3029114
+24,Multitask,False,1,3,0.33926243
+24,Projection,False,0.01,3,0.2948054
+24,Projection,False,1,3,0.29830065
+24,Weighted cosine,False,0.01,3,0.2978971
+24,Weighted cosine,False,1,3,0.30825177
+24,Unweighted cosine,False,0.01,3,0.31159645
+24,Unweighted cosine,False,1,3,0.29691735
+24,Orthogonal,False,0.01,3,0.29480413
+24,Orthogonal,False,1,3,0.30292794
+24,Multitask,False,1,1,0.29604954
+24,Projection,False,0.01,1,0.3007802
+24,Projection,False,1,1,0.2919507
+24,Weighted cosine,False,0.01,1,0.30198205
+24,Weighted cosine,False,1,1,0.31676263
+24,Unweighted cosine,False,0.01,1,0.2980238
+24,Unweighted cosine,False,1,1,0.29708987
+24,Orthogonal,False,0.01,1,0.2915367
+24,Orthogonal,False,1,1,0.29316854
+25,Single task,False,1,0,0.3269695
+25,Multitask,False,1,300,0.6409177
+25,Projection,False,0.01,300,0.32047522
+25,Projection,False,1,300,0.58697224
+25,Weighted cosine,False,0.01,300,0.3043574
+25,Weighted cosine,False,1,300,0.30091467
+25,Unweighted cosine,False,0.01,300,0.32172835
+25,Unweighted cosine,False,1,300,0.3392314
+25,Orthogonal,False,0.01,300,0.33076227
+25,Orthogonal,False,1,300,0.5802352
+25,Multitask,False,1,100,0.45085523
+25,Projection,False,0.01,100,0.29419118
+25,Projection,False,1,100,0.37636474
+25,Weighted cosine,False,0.01,100,0.29627776
+25,Weighted cosine,False,1,100,0.2921048
+25,Unweighted cosine,False,0.01,100,0.3074349
+25,Unweighted cosine,False,1,100,0.31777477
+25,Orthogonal,False,0.01,100,0.29387152
+25,Orthogonal,False,1,100,0.35830897
+25,Multitask,False,1,30,0.3035385
+25,Projection,False,0.01,30,0.30915138
+25,Projection,False,1,30,0.29821458
+25,Weighted cosine,False,0.01,30,0.30768725
+25,Weighted cosine,False,1,30,0.29729378
+25,Unweighted cosine,False,0.01,30,0.30938703
+25,Unweighted cosine,False,1,30,0.30456933
+25,Orthogonal,False,0.01,30,0.31558856
+25,Orthogonal,False,1,30,0.32425272
+25,Multitask,False,1,10,0.30596235
+25,Projection,False,0.01,10,0.29774562
+25,Projection,False,1,10,0.32962078
+25,Weighted cosine,False,0.01,10,0.3000474
+25,Weighted cosine,False,1,10,0.29637763
+25,Unweighted cosine,False,0.01,10,0.29317018
+25,Unweighted cosine,False,1,10,0.29690897
+25,Orthogonal,False,0.01,10,0.30159974
+25,Orthogonal,False,1,10,0.30783564
+25,Multitask,False,1,3,0.2989997
+25,Projection,False,0.01,3,0.29706797
+25,Projection,False,1,3,0.3026173
+25,Weighted cosine,False,0.01,3,0.30175105
+25,Weighted cosine,False,1,3,0.31438622
+25,Unweighted cosine,False,0.01,3,0.3582214
+25,Unweighted cosine,False,1,3,0.32709467
+25,Orthogonal,False,0.01,3,0.3193921
+25,Orthogonal,False,1,3,0.30616665
+25,Multitask,False,1,1,0.3263034
+25,Projection,False,0.01,1,0.29712436
+25,Projection,False,1,1,0.30674005
+25,Weighted cosine,False,0.01,1,0.30830657
+25,Weighted cosine,False,1,1,0.3200313
+25,Unweighted cosine,False,0.01,1,0.3286518
+25,Unweighted cosine,False,1,1,0.3004267
+25,Orthogonal,False,0.01,1,0.3189315
+25,Orthogonal,False,1,1,0.29326704
+26,Single task,False,1,0,0.29958293
+26,Multitask,False,1,300,0.65668315
+26,Projection,False,0.01,300,0.562382
+26,Projection,False,1,300,0.5361599
+26,Weighted cosine,False,0.01,300,0.30718678
+26,Weighted cosine,False,1,300,0.32114074
+26,Unweighted cosine,False,0.01,300,0.30013195
+26,Unweighted cosine,False,1,300,0.3225183
+26,Orthogonal,False,0.01,300,0.3120879
+26,Orthogonal,False,1,300,0.56909657
+26,Multitask,False,1,100,0.45391852
+26,Projection,False,0.01,100,0.29490238
+26,Projection,False,1,100,0.37972745
+26,Weighted cosine,False,0.01,100,0.31210276
+26,Weighted cosine,False,1,100,0.29451832
+26,Unweighted cosine,False,0.01,100,0.29895794
+26,Unweighted cosine,False,1,100,0.32685414
+26,Orthogonal,False,0.01,100,0.30290386
+26,Orthogonal,False,1,100,0.3653487
+26,Multitask,False,1,30,0.31040004
+26,Projection,False,0.01,30,0.31676665
+26,Projection,False,1,30,0.31333983
+26,Weighted cosine,False,0.01,30,0.35020727
+26,Weighted cosine,False,1,30,0.3248006
+26,Unweighted cosine,False,0.01,30,0.30126542
+26,Unweighted cosine,False,1,30,0.29572046
+26,Orthogonal,False,0.01,30,0.30155286
+26,Orthogonal,False,1,30,0.31852996
+26,Multitask,False,1,10,0.2970517
+26,Projection,False,0.01,10,0.3037004
+26,Projection,False,1,10,0.29175475
+26,Weighted cosine,False,0.01,10,0.31579894
+26,Weighted cosine,False,1,10,0.3053386
+26,Unweighted cosine,False,0.01,10,0.3057971
+26,Unweighted cosine,False,1,10,0.2970088
+26,Orthogonal,False,0.01,10,0.30286655
+26,Orthogonal,False,1,10,0.3123163
+26,Multitask,False,1,3,0.31778285
+26,Projection,False,0.01,3,0.30137956
+26,Projection,False,1,3,0.29716924
+26,Weighted cosine,False,0.01,3,0.31483465
+26,Weighted cosine,False,1,3,0.29574245
+26,Unweighted cosine,False,0.01,3,0.29759458
+26,Unweighted cosine,False,1,3,0.33304626
+26,Orthogonal,False,0.01,3,0.3586886
+26,Orthogonal,False,1,3,0.3023478
+26,Multitask,False,1,1,0.30319357
+26,Projection,False,0.01,1,0.29242316
+26,Projection,False,1,1,0.29894218
+26,Weighted cosine,False,0.01,1,0.30797368
+26,Weighted cosine,False,1,1,0.30540445
+26,Unweighted cosine,False,0.01,1,0.3245559
+26,Unweighted cosine,False,1,1,0.38382468
+26,Orthogonal,False,0.01,1,0.31592062
+26,Orthogonal,False,1,1,0.2938958
+27,Single task,False,1,0,0.30908635
+27,Multitask,False,1,300,0.65069693
+27,Projection,False,0.01,300,0.3046077
+27,Projection,False,1,300,0.5781943
+27,Weighted cosine,False,0.01,300,0.30073833
+27,Weighted cosine,False,1,300,0.3474536
+27,Unweighted cosine,False,0.01,300,0.2947543
+27,Unweighted cosine,False,1,300,0.31630024
+27,Orthogonal,False,0.01,300,0.32024604
+27,Orthogonal,False,1,300,0.5307654
+27,Multitask,False,1,100,0.4484275
+27,Projection,False,0.01,100,0.29252836
+27,Projection,False,1,100,0.37448817
+27,Weighted cosine,False,0.01,100,0.30153182
+27,Weighted cosine,False,1,100,0.29578766
+27,Unweighted cosine,False,0.01,100,0.30531612
+27,Unweighted cosine,False,1,100,0.32034317
+27,Orthogonal,False,0.01,100,0.29821712
+27,Orthogonal,False,1,100,0.3763775
+27,Multitask,False,1,30,0.30623376
+27,Projection,False,0.01,30,0.31536075
+27,Projection,False,1,30,0.3081273
+27,Weighted cosine,False,0.01,30,0.29480734
+27,Weighted cosine,False,1,30,0.29616195
+27,Unweighted cosine,False,0.01,30,0.3076855
+27,Unweighted cosine,False,1,30,0.29783365
+27,Orthogonal,False,0.01,30,0.3002909
+27,Orthogonal,False,1,30,0.31517532
+27,Multitask,False,1,10,0.29809996
+27,Projection,False,0.01,10,0.30111203
+27,Projection,False,1,10,0.3432011
+27,Weighted cosine,False,0.01,10,0.31349462
+27,Weighted cosine,False,1,10,0.30070794
+27,Unweighted cosine,False,0.01,10,0.30283356
+27,Unweighted cosine,False,1,10,0.35027653
+27,Orthogonal,False,0.01,10,0.29209134
+27,Orthogonal,False,1,10,0.2999921
+27,Multitask,False,1,3,0.30231985
+27,Projection,False,0.01,3,0.3047743
+27,Projection,False,1,3,0.29660958
+27,Weighted cosine,False,0.01,3,0.29189897
+27,Weighted cosine,False,1,3,0.31018585
+27,Unweighted cosine,False,0.01,3,0.3357805
+27,Unweighted cosine,False,1,3,0.2907986
+27,Orthogonal,False,0.01,3,0.294791
+27,Orthogonal,False,1,3,0.29025275
+27,Multitask,False,1,1,0.3074465
+27,Projection,False,0.01,1,0.3030962
+27,Projection,False,1,1,0.29556146
+27,Weighted cosine,False,0.01,1,0.30076003
+27,Weighted cosine,False,1,1,0.33449852
+27,Unweighted cosine,False,0.01,1,0.3452944
+27,Unweighted cosine,False,1,1,0.29785752
+27,Orthogonal,False,0.01,1,0.33447218
+27,Orthogonal,False,1,1,0.29029965
+28,Single task,False,1,0,0.3025636
+28,Multitask,False,1,300,0.65367126
+28,Projection,False,0.01,300,0.31950843
+28,Projection,False,1,300,0.59214455
+28,Weighted cosine,False,0.01,300,0.35043007
+28,Weighted cosine,False,1,300,0.31389624
+28,Unweighted cosine,False,0.01,300,0.30536595
+28,Unweighted cosine,False,1,300,0.31118804
+28,Orthogonal,False,0.01,300,0.40300047
+28,Orthogonal,False,1,300,0.5748941
+28,Multitask,False,1,100,0.44854897
+28,Projection,False,0.01,100,0.30994534
+28,Projection,False,1,100,0.36676118
+28,Weighted cosine,False,0.01,100,0.294515
+28,Weighted cosine,False,1,100,0.29861224
+28,Unweighted cosine,False,0.01,100,0.29271156
+28,Unweighted cosine,False,1,100,0.2980738
+28,Orthogonal,False,0.01,100,0.29776096
+28,Orthogonal,False,1,100,0.3601316
+28,Multitask,False,1,30,0.30786243
+28,Projection,False,0.01,30,0.32080984
+28,Projection,False,1,30,0.310398
+28,Weighted cosine,False,0.01,30,0.3004453
+28,Weighted cosine,False,1,30,0.34892324
+28,Unweighted cosine,False,0.01,30,0.30377242
+28,Unweighted cosine,False,1,30,0.3031005
+28,Orthogonal,False,0.01,30,0.2947496
+28,Orthogonal,False,1,30,0.3224898
+28,Multitask,False,1,10,0.31625873
+28,Projection,False,0.01,10,0.29876843
+28,Projection,False,1,10,0.31424242
+28,Weighted cosine,False,0.01,10,0.30549237
+28,Weighted cosine,False,1,10,0.2978908
+28,Unweighted cosine,False,0.01,10,0.3031104
+28,Unweighted cosine,False,1,10,0.30021784
+28,Orthogonal,False,0.01,10,0.34021726
+28,Orthogonal,False,1,10,0.33174598
+28,Multitask,False,1,3,0.30505508
+28,Projection,False,0.01,3,0.301963
+28,Projection,False,1,3,0.30648622
+28,Weighted cosine,False,0.01,3,0.29545608
+28,Weighted cosine,False,1,3,0.30410358
+28,Unweighted cosine,False,0.01,3,0.30717593
+28,Unweighted cosine,False,1,3,0.31443748
+28,Orthogonal,False,0.01,3,0.31030715
+28,Orthogonal,False,1,3,0.30439284
+28,Multitask,False,1,1,0.3123233
+28,Projection,False,0.01,1,0.29510355
+28,Projection,False,1,1,0.30490133
+28,Weighted cosine,False,0.01,1,0.32848507
+28,Weighted cosine,False,1,1,0.30310872
+28,Unweighted cosine,False,0.01,1,0.3236987
+28,Unweighted cosine,False,1,1,0.30331635
+28,Orthogonal,False,0.01,1,0.31820253
+28,Orthogonal,False,1,1,0.29637915
+29,Single task,False,1,0,0.31833914
+29,Multitask,False,1,300,0.6478062
+29,Projection,False,0.01,300,0.34755495
+29,Projection,False,1,300,0.5828912
+29,Weighted cosine,False,0.01,300,0.33447227
+29,Weighted cosine,False,1,300,0.3030365
+29,Unweighted cosine,False,0.01,300,0.30376652
+29,Unweighted cosine,False,1,300,0.33075336
+29,Orthogonal,False,0.01,300,0.3275804
+29,Orthogonal,False,1,300,0.5765498
+29,Multitask,False,1,100,0.4505897
+29,Projection,False,0.01,100,0.30511045
+29,Projection,False,1,100,0.37222376
+29,Weighted cosine,False,0.01,100,0.3283341
+29,Weighted cosine,False,1,100,0.29517534
+29,Unweighted cosine,False,0.01,100,0.30732545
+29,Unweighted cosine,False,1,100,0.33067757
+29,Orthogonal,False,0.01,100,0.29542074
+29,Orthogonal,False,1,100,0.35998788
+29,Multitask,False,1,30,0.30948868
+29,Projection,False,0.01,30,0.32856008
+29,Projection,False,1,30,0.3131603
+29,Weighted cosine,False,0.01,30,0.30264083
+29,Weighted cosine,False,1,30,0.3506585
+29,Unweighted cosine,False,0.01,30,0.29882708
+29,Unweighted cosine,False,1,30,0.29380807
+29,Orthogonal,False,0.01,30,0.3138843
+29,Orthogonal,False,1,30,0.319253
+29,Multitask,False,1,10,0.3146446
+29,Projection,False,0.01,10,0.2975043
+29,Projection,False,1,10,0.3003108
+29,Weighted cosine,False,0.01,10,0.3000002
+29,Weighted cosine,False,1,10,0.30323574
+29,Unweighted cosine,False,0.01,10,0.3190792
+29,Unweighted cosine,False,1,10,0.2962986
+29,Orthogonal,False,0.01,10,0.33232445
+29,Orthogonal,False,1,10,0.29423442
+29,Multitask,False,1,3,0.3199648
+29,Projection,False,0.01,3,0.303961
+29,Projection,False,1,3,0.30350167
+29,Weighted cosine,False,0.01,3,0.29455176
+29,Weighted cosine,False,1,3,0.30298105
+29,Unweighted cosine,False,0.01,3,0.29798153
+29,Unweighted cosine,False,1,3,0.32466573
+29,Orthogonal,False,0.01,3,0.3487698
+29,Orthogonal,False,1,3,0.30881435
+29,Multitask,False,1,1,0.30591616
+29,Projection,False,0.01,1,0.3339356
+29,Projection,False,1,1,0.30604854
+29,Weighted cosine,False,0.01,1,0.31077152
+29,Weighted cosine,False,1,1,0.3070313
+29,Unweighted cosine,False,0.01,1,0.30908707
+29,Unweighted cosine,False,1,1,0.30257133
+29,Orthogonal,False,0.01,1,0.30050084
+29,Orthogonal,False,1,1,0.33906695
+30,Single task,False,1,0,0.3021418
+30,Multitask,False,1,300,0.632479
+30,Projection,False,0.01,300,0.30473754
+30,Projection,False,1,300,0.56339556
+30,Weighted cosine,False,0.01,300,0.31532845
+30,Weighted cosine,False,1,300,0.30080813
+30,Unweighted cosine,False,0.01,300,0.3008734
+30,Unweighted cosine,False,1,300,0.31983966
+30,Orthogonal,False,0.01,300,0.2972345
+30,Orthogonal,False,1,300,0.5551733
+30,Multitask,False,1,100,0.44999766
+30,Projection,False,0.01,100,0.29531276
+30,Projection,False,1,100,0.3744216
+30,Weighted cosine,False,0.01,100,0.31044585
+30,Weighted cosine,False,1,100,0.3005347
+30,Unweighted cosine,False,0.01,100,0.30666026
+30,Unweighted cosine,False,1,100,0.29865634
+30,Orthogonal,False,0.01,100,0.30052727
+30,Orthogonal,False,1,100,0.36412126
+30,Multitask,False,1,30,0.31408116
+30,Projection,False,0.01,30,0.31632194
+30,Projection,False,1,30,0.31464544
+30,Weighted cosine,False,0.01,30,0.30271092
+30,Weighted cosine,False,1,30,0.29424086
+30,Unweighted cosine,False,0.01,30,0.29896608
+30,Unweighted cosine,False,1,30,0.3288853
+30,Orthogonal,False,0.01,30,0.30332628
+30,Orthogonal,False,1,30,0.31146464
+30,Multitask,False,1,10,0.30504847
+30,Projection,False,0.01,10,0.30086967
+30,Projection,False,1,10,0.31852946
+30,Weighted cosine,False,0.01,10,0.30665582
+30,Weighted cosine,False,1,10,0.3164967
+30,Unweighted cosine,False,0.01,10,0.32470468
+30,Unweighted cosine,False,1,10,0.31220335
+30,Orthogonal,False,0.01,10,0.29574654
+30,Orthogonal,False,1,10,0.32933086
+30,Multitask,False,1,3,0.29027116
+30,Projection,False,0.01,3,0.32211703
+30,Projection,False,1,3,0.30284768
+30,Weighted cosine,False,0.01,3,0.3467453
+30,Weighted cosine,False,1,3,0.30119783
+30,Unweighted cosine,False,0.01,3,0.30338493
+30,Unweighted cosine,False,1,3,0.2959102
+30,Orthogonal,False,0.01,3,0.32068285
+30,Orthogonal,False,1,3,0.29894105
+30,Multitask,False,1,1,0.29524058
+30,Projection,False,0.01,1,0.2943497
+30,Projection,False,1,1,0.29468134
+30,Weighted cosine,False,0.01,1,0.31682754
+30,Weighted cosine,False,1,1,0.30191824
+30,Unweighted cosine,False,0.01,1,0.297604
+30,Unweighted cosine,False,1,1,0.29621026
+30,Orthogonal,False,0.01,1,0.3085417
+30,Orthogonal,False,1,1,0.29089558
+31,Single task,False,1,0,0.30487704
+31,Multitask,False,1,300,0.6498554
+31,Projection,False,0.01,300,0.3172757
+31,Projection,False,1,300,0.5711151
+31,Weighted cosine,False,0.01,300,0.3127152
+31,Weighted cosine,False,1,300,0.2932509
+31,Unweighted cosine,False,0.01,300,0.308293
+31,Unweighted cosine,False,1,300,0.31381756
+31,Orthogonal,False,0.01,300,0.32513607
+31,Orthogonal,False,1,300,0.5652658
+31,Multitask,False,1,100,0.45831728
+31,Projection,False,0.01,100,0.29930457
+31,Projection,False,1,100,0.35971102
+31,Weighted cosine,False,0.01,100,0.29536566
+31,Weighted cosine,False,1,100,0.29649767
+31,Unweighted cosine,False,0.01,100,0.2942987
+31,Unweighted cosine,False,1,100,0.29884526
+31,Orthogonal,False,0.01,100,0.2959199
+31,Orthogonal,False,1,100,0.37410867
+31,Multitask,False,1,30,0.30872056
+31,Projection,False,0.01,30,0.3118818
+31,Projection,False,1,30,0.31885144
+31,Weighted cosine,False,0.01,30,0.2971042
+31,Weighted cosine,False,1,30,0.3026969
+31,Unweighted cosine,False,0.01,30,0.31614095
+31,Unweighted cosine,False,1,30,0.30212528
+31,Orthogonal,False,0.01,30,0.30808648
+31,Orthogonal,False,1,30,0.31699142
+31,Multitask,False,1,10,0.30645174
+31,Projection,False,0.01,10,0.30574152
+31,Projection,False,1,10,0.2993518
+31,Weighted cosine,False,0.01,10,0.2982012
+31,Weighted cosine,False,1,10,0.32167816
+31,Unweighted cosine,False,0.01,10,0.34917268
+31,Unweighted cosine,False,1,10,0.3071681
+31,Orthogonal,False,0.01,10,0.3126307
+31,Orthogonal,False,1,10,0.30103633
+31,Multitask,False,1,3,0.307986
+31,Projection,False,0.01,3,0.34908554
+31,Projection,False,1,3,0.29476368
+31,Weighted cosine,False,0.01,3,0.2971087
+31,Weighted cosine,False,1,3,0.41438648
+31,Unweighted cosine,False,0.01,3,0.2980457
+31,Unweighted cosine,False,1,3,0.3237651
+31,Orthogonal,False,0.01,3,0.33577523
+31,Orthogonal,False,1,3,0.33859253
+31,Multitask,False,1,1,0.3347697
+31,Projection,False,0.01,1,0.30081716
+31,Projection,False,1,1,0.29406765
+31,Weighted cosine,False,0.01,1,0.30221418
+31,Weighted cosine,False,1,1,0.30820453
+31,Unweighted cosine,False,0.01,1,0.34315374
+31,Unweighted cosine,False,1,1,0.2981929
+31,Orthogonal,False,0.01,1,0.2998743
+31,Orthogonal,False,1,1,0.30187798
+32,Single task,False,1,0,0.30968526
+32,Multitask,False,1,300,0.630337
+32,Projection,False,0.01,300,0.34344235
+32,Projection,False,1,300,0.5895255
+32,Weighted cosine,False,0.01,300,0.2971149
+32,Weighted cosine,False,1,300,0.32339567
+32,Unweighted cosine,False,0.01,300,0.3345582
+32,Unweighted cosine,False,1,300,0.3030987
+32,Orthogonal,False,0.01,300,0.31193092
+32,Orthogonal,False,1,300,0.57961667
+32,Multitask,False,1,100,0.45547366
+32,Projection,False,0.01,100,0.29518542
+32,Projection,False,1,100,0.36586702
+32,Weighted cosine,False,0.01,100,0.29969087
+32,Weighted cosine,False,1,100,0.3052203
+32,Unweighted cosine,False,0.01,100,0.29844072
+32,Unweighted cosine,False,1,100,0.3547895
+32,Orthogonal,False,0.01,100,0.31395656
+32,Orthogonal,False,1,100,0.3455342
+32,Multitask,False,1,30,0.30915362
+32,Projection,False,0.01,30,0.29878262
+32,Projection,False,1,30,0.3139868
+32,Weighted cosine,False,0.01,30,0.29854375
+32,Weighted cosine,False,1,30,0.3002207
+32,Unweighted cosine,False,0.01,30,0.3167874
+32,Unweighted cosine,False,1,30,0.32840362
+32,Orthogonal,False,0.01,30,0.30780694
+32,Orthogonal,False,1,30,0.3123058
+32,Multitask,False,1,10,0.30126527
+32,Projection,False,0.01,10,0.29604948
+32,Projection,False,1,10,0.30858055
+32,Weighted cosine,False,0.01,10,0.30614874
+32,Weighted cosine,False,1,10,0.33954296
+32,Unweighted cosine,False,0.01,10,0.30026665
+32,Unweighted cosine,False,1,10,0.2961233
+32,Orthogonal,False,0.01,10,0.30428115
+32,Orthogonal,False,1,10,0.29917967
+32,Multitask,False,1,3,0.3056045
+32,Projection,False,0.01,3,0.30308622
+32,Projection,False,1,3,0.30716926
+32,Weighted cosine,False,0.01,3,0.30525872
+32,Weighted cosine,False,1,3,0.32708812
+32,Unweighted cosine,False,0.01,3,0.28907618
+32,Unweighted cosine,False,1,3,0.2979579
+32,Orthogonal,False,0.01,3,0.2975008
+32,Orthogonal,False,1,3,0.30414194
+32,Multitask,False,1,1,0.3331709
+32,Projection,False,0.01,1,0.301409
+32,Projection,False,1,1,0.29254973
+32,Weighted cosine,False,0.01,1,0.29613194
+32,Weighted cosine,False,1,1,0.34334368
+32,Unweighted cosine,False,0.01,1,0.30381262
+32,Unweighted cosine,False,1,1,0.34204438
+32,Orthogonal,False,0.01,1,0.29843888
+32,Orthogonal,False,1,1,0.30327472
+33,Single task,False,1,0,0.29125565
+33,Multitask,False,1,300,0.6434061
+33,Projection,False,0.01,300,0.30723956
+33,Projection,False,1,300,0.57370776
+33,Weighted cosine,False,0.01,300,0.3141968
+33,Weighted cosine,False,1,300,0.3041272
+33,Unweighted cosine,False,0.01,300,0.303991
+33,Unweighted cosine,False,1,300,0.31549183
+33,Orthogonal,False,0.01,300,0.30743927
+33,Orthogonal,False,1,300,0.5318325
+33,Multitask,False,1,100,0.44481614
+33,Projection,False,0.01,100,0.2908376
+33,Projection,False,1,100,0.37836483
+33,Weighted cosine,False,0.01,100,0.30130616
+33,Weighted cosine,False,1,100,0.29081005
+33,Unweighted cosine,False,0.01,100,0.31930736
+33,Unweighted cosine,False,1,100,0.3281772
+33,Orthogonal,False,0.01,100,0.3032907
+33,Orthogonal,False,1,100,0.36012802
+33,Multitask,False,1,30,0.30601478
+33,Projection,False,0.01,30,0.30059698
+33,Projection,False,1,30,0.32091668
+33,Weighted cosine,False,0.01,30,0.30023503
+33,Weighted cosine,False,1,30,0.30050376
+33,Unweighted cosine,False,0.01,30,0.355669
+33,Unweighted cosine,False,1,30,0.32003984
+33,Orthogonal,False,0.01,30,0.3101505
+33,Orthogonal,False,1,30,0.32060227
+33,Multitask,False,1,10,0.30162174
+33,Projection,False,0.01,10,0.3124706
+33,Projection,False,1,10,0.3219762
+33,Weighted cosine,False,0.01,10,0.3028028
+33,Weighted cosine,False,1,10,0.3031475
+33,Unweighted cosine,False,0.01,10,0.2983571
+33,Unweighted cosine,False,1,10,0.29738694
+33,Orthogonal,False,0.01,10,0.31171724
+33,Orthogonal,False,1,10,0.30966312
+33,Multitask,False,1,3,0.2871694
+33,Projection,False,0.01,3,0.29476708
+33,Projection,False,1,3,0.29097116
+33,Weighted cosine,False,0.01,3,0.3075411
+33,Weighted cosine,False,1,3,0.3082868
+33,Unweighted cosine,False,0.01,3,0.33835083
+33,Unweighted cosine,False,1,3,0.28641316
+33,Orthogonal,False,0.01,3,0.29994655
+33,Orthogonal,False,1,3,0.3014437
+33,Multitask,False,1,1,0.30131018
+33,Projection,False,0.01,1,0.30782017
+33,Projection,False,1,1,0.29834944
+33,Weighted cosine,False,0.01,1,0.30119747
+33,Weighted cosine,False,1,1,0.30323666
+33,Unweighted cosine,False,0.01,1,0.326197
+33,Unweighted cosine,False,1,1,0.3119114
+33,Orthogonal,False,0.01,1,0.3357884
+33,Orthogonal,False,1,1,0.30253324
+34,Single task,False,1,0,0.29872093
+34,Multitask,False,1,300,0.644497
+34,Projection,False,0.01,300,0.33383268
+34,Projection,False,1,300,0.55303764
+34,Weighted cosine,False,0.01,300,0.30722186
+34,Weighted cosine,False,1,300,0.31137282
+34,Unweighted cosine,False,0.01,300,0.33327475
+34,Unweighted cosine,False,1,300,0.3305679
+34,Orthogonal,False,0.01,300,0.3006117
+34,Orthogonal,False,1,300,0.5687636
+34,Multitask,False,1,100,0.45079145
+34,Projection,False,0.01,100,0.30417863
+34,Projection,False,1,100,0.39002648
+34,Weighted cosine,False,0.01,100,0.2915173
+34,Weighted cosine,False,1,100,0.31415904
+34,Unweighted cosine,False,0.01,100,0.31092858
+34,Unweighted cosine,False,1,100,0.32812762
+34,Orthogonal,False,0.01,100,0.29539546
+34,Orthogonal,False,1,100,0.3760378
+34,Multitask,False,1,30,0.3077153
+34,Projection,False,0.01,30,0.31911328
+34,Projection,False,1,30,0.3039801
+34,Weighted cosine,False,0.01,30,0.33801204
+34,Weighted cosine,False,1,30,0.29284182
+34,Unweighted cosine,False,0.01,30,0.30121824
+34,Unweighted cosine,False,1,30,0.3318224
+34,Orthogonal,False,0.01,30,0.2942285
+34,Orthogonal,False,1,30,0.31517842
+34,Multitask,False,1,10,0.30826122
+34,Projection,False,0.01,10,0.35282055
+34,Projection,False,1,10,0.31203175
+34,Weighted cosine,False,0.01,10,0.29758862
+34,Weighted cosine,False,1,10,0.30561817
+34,Unweighted cosine,False,0.01,10,0.3057399
+34,Unweighted cosine,False,1,10,0.30334878
+34,Orthogonal,False,0.01,10,0.29841918
+34,Orthogonal,False,1,10,0.3038357
+34,Multitask,False,1,3,0.3245117
+34,Projection,False,0.01,3,0.32626197
+34,Projection,False,1,3,0.31501347
+34,Weighted cosine,False,0.01,3,0.30515274
+34,Weighted cosine,False,1,3,0.31131318
+34,Unweighted cosine,False,0.01,3,0.30100957
+34,Unweighted cosine,False,1,3,0.3180752
+34,Orthogonal,False,0.01,3,0.29356408
+34,Orthogonal,False,1,3,0.30173013
+34,Multitask,False,1,1,0.30578095
+34,Projection,False,0.01,1,0.3143228
+34,Projection,False,1,1,0.2993463
+34,Weighted cosine,False,0.01,1,0.30098066
+34,Weighted cosine,False,1,1,0.30131117
+34,Unweighted cosine,False,0.01,1,0.3026585
+34,Unweighted cosine,False,1,1,0.30897656
+34,Orthogonal,False,0.01,1,0.34972915
+34,Orthogonal,False,1,1,0.29718322
+35,Single task,False,1,0,0.35989827
+35,Multitask,False,1,300,0.6340026
+35,Projection,False,0.01,300,0.30491543
+35,Projection,False,1,300,0.5794856
+35,Weighted cosine,False,0.01,300,0.30146194
+35,Weighted cosine,False,1,300,0.2962332
+35,Unweighted cosine,False,0.01,300,0.3454959
+35,Unweighted cosine,False,1,300,0.3017185
+35,Orthogonal,False,0.01,300,0.29294723
+35,Orthogonal,False,1,300,0.5768038
+35,Multitask,False,1,100,0.45540613
+35,Projection,False,0.01,100,0.3049308
+35,Projection,False,1,100,0.38117555
+35,Weighted cosine,False,0.01,100,0.30205587
+35,Weighted cosine,False,1,100,0.29893962
+35,Unweighted cosine,False,0.01,100,0.30922288
+35,Unweighted cosine,False,1,100,0.29505756
+35,Orthogonal,False,0.01,100,0.29364604
+35,Orthogonal,False,1,100,0.35966602
+35,Multitask,False,1,30,0.3030913
+35,Projection,False,0.01,30,0.30855983
+35,Projection,False,1,30,0.32448348
+35,Weighted cosine,False,0.01,30,0.29574558
+35,Weighted cosine,False,1,30,0.29651606
+35,Unweighted cosine,False,0.01,30,0.3145802
+35,Unweighted cosine,False,1,30,0.29241908
+35,Orthogonal,False,0.01,30,0.30179682
+35,Orthogonal,False,1,30,0.31545323
+35,Multitask,False,1,10,0.29345053
+35,Projection,False,0.01,10,0.33437788
+35,Projection,False,1,10,0.29923257
+35,Weighted cosine,False,0.01,10,0.29873523
+35,Weighted cosine,False,1,10,0.31424013
+35,Unweighted cosine,False,0.01,10,0.35302517
+35,Unweighted cosine,False,1,10,0.29932126
+35,Orthogonal,False,0.01,10,0.30107093
+35,Orthogonal,False,1,10,0.3006284
+35,Multitask,False,1,3,0.34589455
+35,Projection,False,0.01,3,0.29836208
+35,Projection,False,1,3,0.29834414
+35,Weighted cosine,False,0.01,3,0.3020702
+35,Weighted cosine,False,1,3,0.34206632
+35,Unweighted cosine,False,0.01,3,0.29875618
+35,Unweighted cosine,False,1,3,0.30133644
+35,Orthogonal,False,0.01,3,0.33852226
+35,Orthogonal,False,1,3,0.3338471
+35,Multitask,False,1,1,0.31414604
+35,Projection,False,0.01,1,0.29364535
+35,Projection,False,1,1,0.29926488
+35,Weighted cosine,False,0.01,1,0.29677343
+35,Weighted cosine,False,1,1,0.30149215
+35,Unweighted cosine,False,0.01,1,0.32225037
+35,Unweighted cosine,False,1,1,0.2941786
+35,Orthogonal,False,0.01,1,0.2977812
+35,Orthogonal,False,1,1,0.29632905
+36,Single task,False,1,0,0.33311346
+36,Multitask,False,1,300,0.6408111
+36,Projection,False,0.01,300,0.33209017
+36,Projection,False,1,300,0.5571047
+36,Weighted cosine,False,0.01,300,0.29837313
+36,Weighted cosine,False,1,300,0.3015877
+36,Unweighted cosine,False,0.01,300,0.33295086
+36,Unweighted cosine,False,1,300,0.29882622
+36,Orthogonal,False,0.01,300,0.29706734
+36,Orthogonal,False,1,300,0.5754564
+36,Multitask,False,1,100,0.44846827
+36,Projection,False,0.01,100,0.30127403
+36,Projection,False,1,100,0.37123844
+36,Weighted cosine,False,0.01,100,0.30673632
+36,Weighted cosine,False,1,100,0.30647892
+36,Unweighted cosine,False,0.01,100,0.32184696
+36,Unweighted cosine,False,1,100,0.33708805
+36,Orthogonal,False,0.01,100,0.30307227
+36,Orthogonal,False,1,100,0.35045943
+36,Multitask,False,1,30,0.30799574
+36,Projection,False,0.01,30,0.30741164
+36,Projection,False,1,30,0.31518212
+36,Weighted cosine,False,0.01,30,0.3142679
+36,Weighted cosine,False,1,30,0.37535688
+36,Unweighted cosine,False,0.01,30,0.33236775
+36,Unweighted cosine,False,1,30,0.29855102
+36,Orthogonal,False,0.01,30,0.31993163
+36,Orthogonal,False,1,30,0.31594932
+36,Multitask,False,1,10,0.30826122
+36,Projection,False,0.01,10,0.31492707
+36,Projection,False,1,10,0.3023624
+36,Weighted cosine,False,0.01,10,0.31171778
+36,Weighted cosine,False,1,10,0.29822177
+36,Unweighted cosine,False,0.01,10,0.3045952
+36,Unweighted cosine,False,1,10,0.2901833
+36,Orthogonal,False,0.01,10,0.30518323
+36,Orthogonal,False,1,10,0.33223176
+36,Multitask,False,1,3,0.29945958
+36,Projection,False,0.01,3,0.34682342
+36,Projection,False,1,3,0.30030754
+36,Weighted cosine,False,0.01,3,0.30197656
+36,Weighted cosine,False,1,3,0.3113691
+36,Unweighted cosine,False,0.01,3,0.297057
+36,Unweighted cosine,False,1,3,0.29468387
+36,Orthogonal,False,0.01,3,0.30805427
+36,Orthogonal,False,1,3,0.2998882
+36,Multitask,False,1,1,0.3031326
+36,Projection,False,0.01,1,0.30193815
+36,Projection,False,1,1,0.3316603
+36,Weighted cosine,False,0.01,1,0.29016626
+36,Weighted cosine,False,1,1,0.30318934
+36,Unweighted cosine,False,0.01,1,0.30133888
+36,Unweighted cosine,False,1,1,0.3175601
+36,Orthogonal,False,0.01,1,0.300136
+36,Orthogonal,False,1,1,0.30078414
+37,Single task,False,1,0,0.29778817
+37,Multitask,False,1,300,0.63544303
+37,Projection,False,0.01,300,0.30076963
+37,Projection,False,1,300,0.5705124
+37,Weighted cosine,False,0.01,300,0.29993555
+37,Weighted cosine,False,1,300,0.3103276
+37,Unweighted cosine,False,0.01,300,0.30792373
+37,Unweighted cosine,False,1,300,0.3049834
+37,Orthogonal,False,0.01,300,0.32125223
+37,Orthogonal,False,1,300,0.58270085
+37,Multitask,False,1,100,0.44934538
+37,Projection,False,0.01,100,0.29284543
+37,Projection,False,1,100,0.37566376
+37,Weighted cosine,False,0.01,100,0.29756656
+37,Weighted cosine,False,1,100,0.33005452
+37,Unweighted cosine,False,0.01,100,0.31257266
+37,Unweighted cosine,False,1,100,0.30997187
+37,Orthogonal,False,0.01,100,0.296258
+37,Orthogonal,False,1,100,0.38244542
+37,Multitask,False,1,30,0.3071727
+37,Projection,False,0.01,30,0.30380833
+37,Projection,False,1,30,0.32503995
+37,Weighted cosine,False,0.01,30,0.3096573
+37,Weighted cosine,False,1,30,0.30140144
+37,Unweighted cosine,False,0.01,30,0.30693585
+37,Unweighted cosine,False,1,30,0.29377788
+37,Orthogonal,False,0.01,30,0.29764682
+37,Orthogonal,False,1,30,0.29857773
+37,Multitask,False,1,10,0.30275825
+37,Projection,False,0.01,10,0.31948274
+37,Projection,False,1,10,0.30260023
+37,Weighted cosine,False,0.01,10,0.32543012
+37,Weighted cosine,False,1,10,0.30353332
+37,Unweighted cosine,False,0.01,10,0.30462837
+37,Unweighted cosine,False,1,10,0.29443073
+37,Orthogonal,False,0.01,10,0.29819453
+37,Orthogonal,False,1,10,0.2939362
+37,Multitask,False,1,3,0.31335062
+37,Projection,False,0.01,3,0.29562736
+37,Projection,False,1,3,0.3345614
+37,Weighted cosine,False,0.01,3,0.30276784
+37,Weighted cosine,False,1,3,0.30424362
+37,Unweighted cosine,False,0.01,3,0.29739982
+37,Unweighted cosine,False,1,3,0.30926347
+37,Orthogonal,False,0.01,3,0.29630384
+37,Orthogonal,False,1,3,0.340508
+37,Multitask,False,1,1,0.30658743
+37,Projection,False,0.01,1,0.31370565
+37,Projection,False,1,1,0.32510668
+37,Weighted cosine,False,0.01,1,0.30199498
+37,Weighted cosine,False,1,1,0.29183105
+37,Unweighted cosine,False,0.01,1,0.36099738
+37,Unweighted cosine,False,1,1,0.30553347
+37,Orthogonal,False,0.01,1,0.30200982
+37,Orthogonal,False,1,1,0.29123583
+38,Single task,False,1,0,0.36189696
+38,Multitask,False,1,300,0.635658
+38,Projection,False,0.01,300,0.32159755
+38,Projection,False,1,300,0.55544335
+38,Weighted cosine,False,0.01,300,0.2983548
+38,Weighted cosine,False,1,300,0.294549
+38,Unweighted cosine,False,0.01,300,0.30585945
+38,Unweighted cosine,False,1,300,0.29953298
+38,Orthogonal,False,0.01,300,0.3032385
+38,Orthogonal,False,1,300,0.57220715
+38,Multitask,False,1,100,0.44549406
+38,Projection,False,0.01,100,0.29068244
+38,Projection,False,1,100,0.36377046
+38,Weighted cosine,False,0.01,100,0.29441527
+38,Weighted cosine,False,1,100,0.31412
+38,Unweighted cosine,False,0.01,100,0.29832655
+38,Unweighted cosine,False,1,100,0.320108
+38,Orthogonal,False,0.01,100,0.29141444
+38,Orthogonal,False,1,100,0.3799418
+38,Multitask,False,1,30,0.30846554
+38,Projection,False,0.01,30,0.2994263
+38,Projection,False,1,30,0.32447618
+38,Weighted cosine,False,0.01,30,0.3144442
+38,Weighted cosine,False,1,30,0.29759544
+38,Unweighted cosine,False,0.01,30,0.290223
+38,Unweighted cosine,False,1,30,0.30071503
+38,Orthogonal,False,0.01,30,0.3045028
+38,Orthogonal,False,1,30,0.31105703
+38,Multitask,False,1,10,0.3030971
+38,Projection,False,0.01,10,0.28878817
+38,Projection,False,1,10,0.3040202
+38,Weighted cosine,False,0.01,10,0.34515923
+38,Weighted cosine,False,1,10,0.3153192
+38,Unweighted cosine,False,0.01,10,0.30418995
+38,Unweighted cosine,False,1,10,0.3011539
+38,Orthogonal,False,0.01,10,0.29459703
+38,Orthogonal,False,1,10,0.31517786
+38,Multitask,False,1,3,0.3090125
+38,Projection,False,0.01,3,0.3188127
+38,Projection,False,1,3,0.30079046
+38,Weighted cosine,False,0.01,3,0.2957592
+38,Weighted cosine,False,1,3,0.3240221
+38,Unweighted cosine,False,0.01,3,0.2997404
+38,Unweighted cosine,False,1,3,0.33111304
+38,Orthogonal,False,0.01,3,0.3115923
+38,Orthogonal,False,1,3,0.3089263
+38,Multitask,False,1,1,0.30248952
+38,Projection,False,0.01,1,0.30974907
+38,Projection,False,1,1,0.29787922
+38,Weighted cosine,False,0.01,1,0.32865664
+38,Weighted cosine,False,1,1,0.3036477
+38,Unweighted cosine,False,0.01,1,0.30826482
+38,Unweighted cosine,False,1,1,0.30576804
+38,Orthogonal,False,0.01,1,0.294955
+38,Orthogonal,False,1,1,0.30482256
+39,Single task,False,1,0,0.29521215
+39,Multitask,False,1,300,0.64184093
+39,Projection,False,0.01,300,0.3340682
+39,Projection,False,1,300,0.5735127
+39,Weighted cosine,False,0.01,300,0.29920605
+39,Weighted cosine,False,1,300,0.29768834
+39,Unweighted cosine,False,0.01,300,0.30109593
+39,Unweighted cosine,False,1,300,0.31327268
+39,Orthogonal,False,0.01,300,0.31377003
+39,Orthogonal,False,1,300,0.5689322
+39,Multitask,False,1,100,0.45050922
+39,Projection,False,0.01,100,0.3032792
+39,Projection,False,1,100,0.36902806
+39,Weighted cosine,False,0.01,100,0.32841617
+39,Weighted cosine,False,1,100,0.2929709
+39,Unweighted cosine,False,0.01,100,0.30467746
+39,Unweighted cosine,False,1,100,0.2954637
+39,Orthogonal,False,0.01,100,0.2962082
+39,Orthogonal,False,1,100,0.33950725
+39,Multitask,False,1,30,0.30072194
+39,Projection,False,0.01,30,0.29375157
+39,Projection,False,1,30,0.31284323
+39,Weighted cosine,False,0.01,30,0.31213316
+39,Weighted cosine,False,1,30,0.2960418
+39,Unweighted cosine,False,0.01,30,0.30080342
+39,Unweighted cosine,False,1,30,0.30063874
+39,Orthogonal,False,0.01,30,0.30934992
+39,Orthogonal,False,1,30,0.31752032
+39,Multitask,False,1,10,0.30072236
+39,Projection,False,0.01,10,0.36215267
+39,Projection,False,1,10,0.310834
+39,Weighted cosine,False,0.01,10,0.3142622
+39,Weighted cosine,False,1,10,0.29137683
+39,Unweighted cosine,False,0.01,10,0.36090016
+39,Unweighted cosine,False,1,10,0.29749197
+39,Orthogonal,False,0.01,10,0.32200727
+39,Orthogonal,False,1,10,0.33610845
+39,Multitask,False,1,3,0.34264386
+39,Projection,False,0.01,3,0.2972935
+39,Projection,False,1,3,0.34508297
+39,Weighted cosine,False,0.01,3,0.30100003
+39,Weighted cosine,False,1,3,0.35099524
+39,Unweighted cosine,False,0.01,3,0.30277833
+39,Unweighted cosine,False,1,3,0.2993686
+39,Orthogonal,False,0.01,3,0.29829392
+39,Orthogonal,False,1,3,0.3148671
+39,Multitask,False,1,1,0.30623955
+39,Projection,False,0.01,1,0.3114641
+39,Projection,False,1,1,0.30008218
+39,Weighted cosine,False,0.01,1,0.33174798
+39,Weighted cosine,False,1,1,0.29713875
+39,Unweighted cosine,False,0.01,1,0.328979
+39,Unweighted cosine,False,1,1,0.295965
+39,Orthogonal,False,0.01,1,0.30104417
+39,Orthogonal,False,1,1,0.30731645
+40,Single task,False,1,0,0.31941327
+40,Multitask,False,1,300,0.64832777
+40,Projection,False,0.01,300,0.3002319
+40,Projection,False,1,300,0.58694285
+40,Weighted cosine,False,0.01,300,0.3204759
+40,Weighted cosine,False,1,300,0.32339552
+40,Unweighted cosine,False,0.01,300,0.34049395
+40,Unweighted cosine,False,1,300,0.30910215
+40,Orthogonal,False,0.01,300,0.31285414
+40,Orthogonal,False,1,300,0.5885714
+40,Multitask,False,1,100,0.44895288
+40,Projection,False,0.01,100,0.29934478
+40,Projection,False,1,100,0.3711761
+40,Weighted cosine,False,0.01,100,0.3336193
+40,Weighted cosine,False,1,100,0.31328923
+40,Unweighted cosine,False,0.01,100,0.3031909
+40,Unweighted cosine,False,1,100,0.3048357
+40,Orthogonal,False,0.01,100,0.29558402
+40,Orthogonal,False,1,100,0.36500332
+40,Multitask,False,1,30,0.3063849
+40,Projection,False,0.01,30,0.30588084
+40,Projection,False,1,30,0.3131675
+40,Weighted cosine,False,0.01,30,0.29475012
+40,Weighted cosine,False,1,30,0.3308574
+40,Unweighted cosine,False,0.01,30,0.29753026
+40,Unweighted cosine,False,1,30,0.30451262
+40,Orthogonal,False,0.01,30,0.29395628
+40,Orthogonal,False,1,30,0.3083127
+40,Multitask,False,1,10,0.29740518
+40,Projection,False,0.01,10,0.33677876
+40,Projection,False,1,10,0.30405712
+40,Weighted cosine,False,0.01,10,0.30311343
+40,Weighted cosine,False,1,10,0.29818502
+40,Unweighted cosine,False,0.01,10,0.29651943
+40,Unweighted cosine,False,1,10,0.30034435
+40,Orthogonal,False,0.01,10,0.34679696
+40,Orthogonal,False,1,10,0.32139847
+40,Multitask,False,1,3,0.30079234
+40,Projection,False,0.01,3,0.29864848
+40,Projection,False,1,3,0.3042868
+40,Weighted cosine,False,0.01,3,0.29324308
+40,Weighted cosine,False,1,3,0.35828125
+40,Unweighted cosine,False,0.01,3,0.30826905
+40,Unweighted cosine,False,1,3,0.3072355
+40,Orthogonal,False,0.01,3,0.30470622
+40,Orthogonal,False,1,3,0.312315
+40,Multitask,False,1,1,0.3046681
+40,Projection,False,0.01,1,0.29388914
+40,Projection,False,1,1,0.3332223
+40,Weighted cosine,False,0.01,1,0.304248
+40,Weighted cosine,False,1,1,0.3051604
+40,Unweighted cosine,False,0.01,1,0.3047905
+40,Unweighted cosine,False,1,1,0.29739547
+40,Orthogonal,False,0.01,1,0.32618612
+40,Orthogonal,False,1,1,0.28560954
+41,Single task,False,1,0,0.3150763
+41,Multitask,False,1,300,0.6401534
+41,Projection,False,0.01,300,0.32830632
+41,Projection,False,1,300,0.56526047
+41,Weighted cosine,False,0.01,300,0.2999415
+41,Weighted cosine,False,1,300,0.29558033
+41,Unweighted cosine,False,0.01,300,0.3026696
+41,Unweighted cosine,False,1,300,0.30988988
+41,Orthogonal,False,0.01,300,0.3092057
+41,Orthogonal,False,1,300,0.5906275
+41,Multitask,False,1,100,0.44854212
+41,Projection,False,0.01,100,0.31171688
+41,Projection,False,1,100,0.36285797
+41,Weighted cosine,False,0.01,100,0.29903603
+41,Weighted cosine,False,1,100,0.3092175
+41,Unweighted cosine,False,0.01,100,0.29826012
+41,Unweighted cosine,False,1,100,0.31561872
+41,Orthogonal,False,0.01,100,0.29207036
+41,Orthogonal,False,1,100,0.36374226
+41,Multitask,False,1,30,0.30930778
+41,Projection,False,0.01,30,0.30567804
+41,Projection,False,1,30,0.30133626
+41,Weighted cosine,False,0.01,30,0.30552223
+41,Weighted cosine,False,1,30,0.3145303
+41,Unweighted cosine,False,0.01,30,0.29571274
+41,Unweighted cosine,False,1,30,0.29791754
+41,Orthogonal,False,0.01,30,0.30001742
+41,Orthogonal,False,1,30,0.3174712
+41,Multitask,False,1,10,0.31268007
+41,Projection,False,0.01,10,0.3061975
+41,Projection,False,1,10,0.2955864
+41,Weighted cosine,False,0.01,10,0.31880763
+41,Weighted cosine,False,1,10,0.29250225
+41,Unweighted cosine,False,0.01,10,0.30373105
+41,Unweighted cosine,False,1,10,0.29681936
+41,Orthogonal,False,0.01,10,0.30892348
+41,Orthogonal,False,1,10,0.30018276
+41,Multitask,False,1,3,0.29654357
+41,Projection,False,0.01,3,0.3127887
+41,Projection,False,1,3,0.35236296
+41,Weighted cosine,False,0.01,3,0.30545118
+41,Weighted cosine,False,1,3,0.38762093
+41,Unweighted cosine,False,0.01,3,0.2972662
+41,Unweighted cosine,False,1,3,0.305826
+41,Orthogonal,False,0.01,3,0.30697197
+41,Orthogonal,False,1,3,0.3082548
+41,Multitask,False,1,1,0.29805577
+41,Projection,False,0.01,1,0.30303568
+41,Projection,False,1,1,0.31012103
+41,Weighted cosine,False,0.01,1,0.31220177
+41,Weighted cosine,False,1,1,0.301163
+41,Unweighted cosine,False,0.01,1,0.29889756
+41,Unweighted cosine,False,1,1,0.2957545
+41,Orthogonal,False,0.01,1,0.3538486
+41,Orthogonal,False,1,1,0.29807407
+42,Single task,False,1,0,0.29911214
+42,Multitask,False,1,300,0.6464801
+42,Projection,False,0.01,300,0.29988107
+42,Projection,False,1,300,0.58973175
+42,Weighted cosine,False,0.01,300,0.29396787
+42,Weighted cosine,False,1,300,0.29383847
+42,Unweighted cosine,False,0.01,300,0.30768457
+42,Unweighted cosine,False,1,300,0.3416171
+42,Orthogonal,False,0.01,300,0.3128354
+42,Orthogonal,False,1,300,0.58399665
+42,Multitask,False,1,100,0.459365
+42,Projection,False,0.01,100,0.2937626
+42,Projection,False,1,100,0.372925
+42,Weighted cosine,False,0.01,100,0.30284378
+42,Weighted cosine,False,1,100,0.2896504
+42,Unweighted cosine,False,0.01,100,0.31249413
+42,Unweighted cosine,False,1,100,0.29483065
+42,Orthogonal,False,0.01,100,0.29291645
+42,Orthogonal,False,1,100,0.3850799
+42,Multitask,False,1,30,0.30897194
+42,Projection,False,0.01,30,0.30005842
+42,Projection,False,1,30,0.32399902
+42,Weighted cosine,False,0.01,30,0.3021186
+42,Weighted cosine,False,1,30,0.3315158
+42,Unweighted cosine,False,0.01,30,0.29296404
+42,Unweighted cosine,False,1,30,0.30418915
+42,Orthogonal,False,0.01,30,0.296182
+42,Orthogonal,False,1,30,0.317185
+42,Multitask,False,1,10,0.29511514
+42,Projection,False,0.01,10,0.30858624
+42,Projection,False,1,10,0.2996091
+42,Weighted cosine,False,0.01,10,0.2966234
+42,Weighted cosine,False,1,10,0.30843842
+42,Unweighted cosine,False,0.01,10,0.3096822
+42,Unweighted cosine,False,1,10,0.31851175
+42,Orthogonal,False,0.01,10,0.29973543
+42,Orthogonal,False,1,10,0.3316604
+42,Multitask,False,1,3,0.2969032
+42,Projection,False,0.01,3,0.29886258
+42,Projection,False,1,3,0.31134188
+42,Weighted cosine,False,0.01,3,0.31334734
+42,Weighted cosine,False,1,3,0.32324013
+42,Unweighted cosine,False,0.01,3,0.29446808
+42,Unweighted cosine,False,1,3,0.30695188
+42,Orthogonal,False,0.01,3,0.29681253
+42,Orthogonal,False,1,3,0.341791
+42,Multitask,False,1,1,0.30265743
+42,Projection,False,0.01,1,0.2952393
+42,Projection,False,1,1,0.3020214
+42,Weighted cosine,False,0.01,1,0.31776765
+42,Weighted cosine,False,1,1,0.31129843
+42,Unweighted cosine,False,0.01,1,0.29804423
+42,Unweighted cosine,False,1,1,0.3005268
+42,Orthogonal,False,0.01,1,0.2970926
+42,Orthogonal,False,1,1,0.31771627
+43,Single task,False,1,0,0.3308398
+43,Multitask,False,1,300,0.62507224
+43,Projection,False,0.01,300,0.3081114
+43,Projection,False,1,300,0.598323
+43,Weighted cosine,False,0.01,300,0.2954851
+43,Weighted cosine,False,1,300,0.29649436
+43,Unweighted cosine,False,0.01,300,0.29830655
+43,Unweighted cosine,False,1,300,0.30356622
+43,Orthogonal,False,0.01,300,0.31560647
+43,Orthogonal,False,1,300,0.590732
+43,Multitask,False,1,100,0.45739257
+43,Projection,False,0.01,100,0.29726085
+43,Projection,False,1,100,0.3656153
+43,Weighted cosine,False,0.01,100,0.3178358
+43,Weighted cosine,False,1,100,0.31803423
+43,Unweighted cosine,False,0.01,100,0.30600023
+43,Unweighted cosine,False,1,100,0.345771
+43,Orthogonal,False,0.01,100,0.2945485
+43,Orthogonal,False,1,100,0.36467102
+43,Multitask,False,1,30,0.30819145
+43,Projection,False,0.01,30,0.30211875
+43,Projection,False,1,30,0.30396527
+43,Weighted cosine,False,0.01,30,0.3078019
+43,Weighted cosine,False,1,30,0.29163083
+43,Unweighted cosine,False,0.01,30,0.30776197
+43,Unweighted cosine,False,1,30,0.33091176
+43,Orthogonal,False,0.01,30,0.30848053
+43,Orthogonal,False,1,30,0.30900052
+43,Multitask,False,1,10,0.30389333
+43,Projection,False,0.01,10,0.29915595
+43,Projection,False,1,10,0.30145872
+43,Weighted cosine,False,0.01,10,0.30335876
+43,Weighted cosine,False,1,10,0.30273882
+43,Unweighted cosine,False,0.01,10,0.31761223
+43,Unweighted cosine,False,1,10,0.2966058
+43,Orthogonal,False,0.01,10,0.29853952
+43,Orthogonal,False,1,10,0.3006319
+43,Multitask,False,1,3,0.32084808
+43,Projection,False,0.01,3,0.32701722
+43,Projection,False,1,3,0.29969892
+43,Weighted cosine,False,0.01,3,0.29442027
+43,Weighted cosine,False,1,3,0.30903485
+43,Unweighted cosine,False,0.01,3,0.29887414
+43,Unweighted cosine,False,1,3,0.30537602
+43,Orthogonal,False,0.01,3,0.33869344
+43,Orthogonal,False,1,3,0.30525294
+43,Multitask,False,1,1,0.30514872
+43,Projection,False,0.01,1,0.32862094
+43,Projection,False,1,1,0.2975177
+43,Weighted cosine,False,0.01,1,0.35774696
+43,Weighted cosine,False,1,1,0.34074298
+43,Unweighted cosine,False,0.01,1,0.3007711
+43,Unweighted cosine,False,1,1,0.3194823
+43,Orthogonal,False,0.01,1,0.30577847
+43,Orthogonal,False,1,1,0.30156326
+44,Single task,False,1,0,0.3193765
+44,Multitask,False,1,300,0.64990264
+44,Projection,False,0.01,300,0.30674064
+44,Projection,False,1,300,0.578296
+44,Weighted cosine,False,0.01,300,0.35940906
+44,Weighted cosine,False,1,300,0.30177245
+44,Unweighted cosine,False,0.01,300,0.30610937
+44,Unweighted cosine,False,1,300,0.31508544
+44,Orthogonal,False,0.01,300,0.30083787
+44,Orthogonal,False,1,300,0.59462255
+44,Multitask,False,1,100,0.44585282
+44,Projection,False,0.01,100,0.2948468
+44,Projection,False,1,100,0.35886157
+44,Weighted cosine,False,0.01,100,0.29992697
+44,Weighted cosine,False,1,100,0.29910746
+44,Unweighted cosine,False,0.01,100,0.3005487
+44,Unweighted cosine,False,1,100,0.33441266
+44,Orthogonal,False,0.01,100,0.29324725
+44,Orthogonal,False,1,100,0.3539896
+44,Multitask,False,1,30,0.31113684
+44,Projection,False,0.01,30,0.30006558
+44,Projection,False,1,30,0.31270128
+44,Weighted cosine,False,0.01,30,0.30263895
+44,Weighted cosine,False,1,30,0.3390384
+44,Unweighted cosine,False,0.01,30,0.30142915
+44,Unweighted cosine,False,1,30,0.29824305
+44,Orthogonal,False,0.01,30,0.3025725
+44,Orthogonal,False,1,30,0.3172727
+44,Multitask,False,1,10,0.32559702
+44,Projection,False,0.01,10,0.30161694
+44,Projection,False,1,10,0.33172148
+44,Weighted cosine,False,0.01,10,0.30170116
+44,Weighted cosine,False,1,10,0.30830562
+44,Unweighted cosine,False,0.01,10,0.30827087
+44,Unweighted cosine,False,1,10,0.29716244
+44,Orthogonal,False,0.01,10,0.30632377
+44,Orthogonal,False,1,10,0.29511034
+44,Multitask,False,1,3,0.31073397
+44,Projection,False,0.01,3,0.35633382
+44,Projection,False,1,3,0.3011691
+44,Weighted cosine,False,0.01,3,0.31771743
+44,Weighted cosine,False,1,3,0.35894227
+44,Unweighted cosine,False,0.01,3,0.30182186
+44,Unweighted cosine,False,1,3,0.29284745
+44,Orthogonal,False,0.01,3,0.30419385
+44,Orthogonal,False,1,3,0.30235466
+44,Multitask,False,1,1,0.30540073
+44,Projection,False,0.01,1,0.31434113
+44,Projection,False,1,1,0.3109551
+44,Weighted cosine,False,0.01,1,0.30553433
+44,Weighted cosine,False,1,1,0.2946054
+44,Unweighted cosine,False,0.01,1,0.3164175
+44,Unweighted cosine,False,1,1,0.30054107
+44,Orthogonal,False,0.01,1,0.3049236
+44,Orthogonal,False,1,1,0.3007914
+45,Single task,False,1,0,0.30605757
+45,Multitask,False,1,300,0.6367663
+45,Projection,False,0.01,300,0.31546766
+45,Projection,False,1,300,0.5777355
+45,Weighted cosine,False,0.01,300,0.30005452
+45,Weighted cosine,False,1,300,0.2965376
+45,Unweighted cosine,False,0.01,300,0.3063516
+45,Unweighted cosine,False,1,300,0.3288236
+45,Orthogonal,False,0.01,300,0.3555515
+45,Orthogonal,False,1,300,0.58064735
+45,Multitask,False,1,100,0.4532468
+45,Projection,False,0.01,100,0.29728308
+45,Projection,False,1,100,0.36169335
+45,Weighted cosine,False,0.01,100,0.29425496
+45,Weighted cosine,False,1,100,0.31597245
+45,Unweighted cosine,False,0.01,100,0.30277458
+45,Unweighted cosine,False,1,100,0.3192458
+45,Orthogonal,False,0.01,100,0.29714802
+45,Orthogonal,False,1,100,0.3653449
+45,Multitask,False,1,30,0.31572792
+45,Projection,False,0.01,30,0.29616487
+45,Projection,False,1,30,0.3077135
+45,Weighted cosine,False,0.01,30,0.30609214
+45,Weighted cosine,False,1,30,0.30504075
+45,Unweighted cosine,False,0.01,30,0.31580022
+45,Unweighted cosine,False,1,30,0.29142198
+45,Orthogonal,False,0.01,30,0.32035515
+45,Orthogonal,False,1,30,0.3152992
+45,Multitask,False,1,10,0.31610075
+45,Projection,False,0.01,10,0.29672486
+45,Projection,False,1,10,0.31595403
+45,Weighted cosine,False,0.01,10,0.3164981
+45,Weighted cosine,False,1,10,0.29901853
+45,Unweighted cosine,False,0.01,10,0.29909605
+45,Unweighted cosine,False,1,10,0.3495568
+45,Orthogonal,False,0.01,10,0.35526577
+45,Orthogonal,False,1,10,0.33612043
+45,Multitask,False,1,3,0.3057719
+45,Projection,False,0.01,3,0.2967116
+45,Projection,False,1,3,0.29988968
+45,Weighted cosine,False,0.01,3,0.32175937
+45,Weighted cosine,False,1,3,0.3014267
+45,Unweighted cosine,False,0.01,3,0.29283488
+45,Unweighted cosine,False,1,3,0.30386287
+45,Orthogonal,False,0.01,3,0.33081913
+45,Orthogonal,False,1,3,0.29968923
+45,Multitask,False,1,1,0.30497718
+45,Projection,False,0.01,1,0.2925529
+45,Projection,False,1,1,0.31112412
+45,Weighted cosine,False,0.01,1,0.3036793
+45,Weighted cosine,False,1,1,0.32315025
+45,Unweighted cosine,False,0.01,1,0.3256099
+45,Unweighted cosine,False,1,1,0.2970112
+45,Orthogonal,False,0.01,1,0.30384326
+45,Orthogonal,False,1,1,0.30577546
+46,Single task,False,1,0,0.305406
+46,Multitask,False,1,300,0.640893
+46,Projection,False,0.01,300,0.30593324
+46,Projection,False,1,300,0.5799638
+46,Weighted cosine,False,0.01,300,0.30628496
+46,Weighted cosine,False,1,300,0.30610645
+46,Unweighted cosine,False,0.01,300,0.30052632
+46,Unweighted cosine,False,1,300,0.30298704
+46,Orthogonal,False,0.01,300,0.30583614
+46,Orthogonal,False,1,300,0.5934402
+46,Multitask,False,1,100,0.4470989
+46,Projection,False,0.01,100,0.29263598
+46,Projection,False,1,100,0.34975094
+46,Weighted cosine,False,0.01,100,0.30341843
+46,Weighted cosine,False,1,100,0.31301132
+46,Unweighted cosine,False,0.01,100,0.31827256
+46,Unweighted cosine,False,1,100,0.35843274
+46,Orthogonal,False,0.01,100,0.2951869
+46,Orthogonal,False,1,100,0.36632085
+46,Multitask,False,1,30,0.31213996
+46,Projection,False,0.01,30,0.31724343
+46,Projection,False,1,30,0.3194058
+46,Weighted cosine,False,0.01,30,0.2994454
+46,Weighted cosine,False,1,30,0.3207825
+46,Unweighted cosine,False,0.01,30,0.29985714
+46,Unweighted cosine,False,1,30,0.31035513
+46,Orthogonal,False,0.01,30,0.30207592
+46,Orthogonal,False,1,30,0.3179389
+46,Multitask,False,1,10,0.32352513
+46,Projection,False,0.01,10,0.3109324
+46,Projection,False,1,10,0.29963568
+46,Weighted cosine,False,0.01,10,0.3058412
+46,Weighted cosine,False,1,10,0.30043948
+46,Unweighted cosine,False,0.01,10,0.29512158
+46,Unweighted cosine,False,1,10,0.30759126
+46,Orthogonal,False,0.01,10,0.33410767
+46,Orthogonal,False,1,10,0.31305575
+46,Multitask,False,1,3,0.30075628
+46,Projection,False,0.01,3,0.30385992
+46,Projection,False,1,3,0.30708975
+46,Weighted cosine,False,0.01,3,0.30972913
+46,Weighted cosine,False,1,3,0.3020511
+46,Unweighted cosine,False,0.01,3,0.30990514
+46,Unweighted cosine,False,1,3,0.29628286
+46,Orthogonal,False,0.01,3,0.32992265
+46,Orthogonal,False,1,3,0.3132064
+46,Multitask,False,1,1,0.3117496
+46,Projection,False,0.01,1,0.31322515
+46,Projection,False,1,1,0.31212226
+46,Weighted cosine,False,0.01,1,0.29711884
+46,Weighted cosine,False,1,1,0.3131144
+46,Unweighted cosine,False,0.01,1,0.32627833
+46,Unweighted cosine,False,1,1,0.31573248
+46,Orthogonal,False,0.01,1,0.37465766
+46,Orthogonal,False,1,1,0.29580626
+47,Single task,False,1,0,0.31015968
+47,Multitask,False,1,300,0.64612675
+47,Projection,False,0.01,300,0.30201358
+47,Projection,False,1,300,0.5552652
+47,Weighted cosine,False,0.01,300,0.32632804
+47,Weighted cosine,False,1,300,0.30774847
+47,Unweighted cosine,False,0.01,300,0.30871797
+47,Unweighted cosine,False,1,300,0.31823775
+47,Orthogonal,False,0.01,300,0.3003288
+47,Orthogonal,False,1,300,0.5840781
+47,Multitask,False,1,100,0.44211784
+47,Projection,False,0.01,100,0.29232532
+47,Projection,False,1,100,0.36658117
+47,Weighted cosine,False,0.01,100,0.31634626
+47,Weighted cosine,False,1,100,0.29240757
+47,Unweighted cosine,False,0.01,100,0.30047894
+47,Unweighted cosine,False,1,100,0.31365547
+47,Orthogonal,False,0.01,100,0.29153952
+47,Orthogonal,False,1,100,0.36599267
+47,Multitask,False,1,30,0.3100911
+47,Projection,False,0.01,30,0.29220334
+47,Projection,False,1,30,0.30816847
+47,Weighted cosine,False,0.01,30,0.30005288
+47,Weighted cosine,False,1,30,0.29458374
+47,Unweighted cosine,False,0.01,30,0.31523046
+47,Unweighted cosine,False,1,30,0.30182093
+47,Orthogonal,False,0.01,30,0.3094475
+47,Orthogonal,False,1,30,0.3148145
+47,Multitask,False,1,10,0.30405667
+47,Projection,False,0.01,10,0.31478393
+47,Projection,False,1,10,0.3090047
+47,Weighted cosine,False,0.01,10,0.30658078
+47,Weighted cosine,False,1,10,0.30644637
+47,Unweighted cosine,False,0.01,10,0.32424226
+47,Unweighted cosine,False,1,10,0.30459654
+47,Orthogonal,False,0.01,10,0.3128479
+47,Orthogonal,False,1,10,0.29558808
+47,Multitask,False,1,3,0.30473027
+47,Projection,False,0.01,3,0.31377977
+47,Projection,False,1,3,0.3218482
+47,Weighted cosine,False,0.01,3,0.33965546
+47,Weighted cosine,False,1,3,0.29980692
+47,Unweighted cosine,False,0.01,3,0.29544097
+47,Unweighted cosine,False,1,3,0.30262735
+47,Orthogonal,False,0.01,3,0.34704518
+47,Orthogonal,False,1,3,0.3851168
+47,Multitask,False,1,1,0.29289755
+47,Projection,False,0.01,1,0.3280601
+47,Projection,False,1,1,0.304055
+47,Weighted cosine,False,0.01,1,0.29374853
+47,Weighted cosine,False,1,1,0.30736324
+47,Unweighted cosine,False,0.01,1,0.3074952
+47,Unweighted cosine,False,1,1,0.2986796
+47,Orthogonal,False,0.01,1,0.31688204
+47,Orthogonal,False,1,1,0.30454856
+48,Single task,False,1,0,0.2960267
+48,Multitask,False,1,300,0.6527804
+48,Projection,False,0.01,300,0.32259285
+48,Projection,False,1,300,0.59114057
+48,Weighted cosine,False,0.01,300,0.3083556
+48,Weighted cosine,False,1,300,0.30762208
+48,Unweighted cosine,False,0.01,300,0.30192047
+48,Unweighted cosine,False,1,300,0.3139748
+48,Orthogonal,False,0.01,300,0.30563304
+48,Orthogonal,False,1,300,0.588777
+48,Multitask,False,1,100,0.4537268
+48,Projection,False,0.01,100,0.29068786
+48,Projection,False,1,100,0.38363078
+48,Weighted cosine,False,0.01,100,0.29544276
+48,Weighted cosine,False,1,100,0.2934317
+48,Unweighted cosine,False,0.01,100,0.3031605
+48,Unweighted cosine,False,1,100,0.3133939
+48,Orthogonal,False,0.01,100,0.29455227
+48,Orthogonal,False,1,100,0.37398496
+48,Multitask,False,1,30,0.3086738
+48,Projection,False,0.01,30,0.307531
+48,Projection,False,1,30,0.31752253
+48,Weighted cosine,False,0.01,30,0.308438
+48,Weighted cosine,False,1,30,0.30209348
+48,Unweighted cosine,False,0.01,30,0.31098258
+48,Unweighted cosine,False,1,30,0.3394397
+48,Orthogonal,False,0.01,30,0.31735405
+48,Orthogonal,False,1,30,0.31214193
+48,Multitask,False,1,10,0.32464847
+48,Projection,False,0.01,10,0.30509993
+48,Projection,False,1,10,0.30217728
+48,Weighted cosine,False,0.01,10,0.3035405
+48,Weighted cosine,False,1,10,0.30257884
+48,Unweighted cosine,False,0.01,10,0.3104694
+48,Unweighted cosine,False,1,10,0.29730296
+48,Orthogonal,False,0.01,10,0.3167566
+48,Orthogonal,False,1,10,0.31557342
+48,Multitask,False,1,3,0.30228943
+48,Projection,False,0.01,3,0.3100276
+48,Projection,False,1,3,0.30488706
+48,Weighted cosine,False,0.01,3,0.29933083
+48,Weighted cosine,False,1,3,0.3125832
+48,Unweighted cosine,False,0.01,3,0.3279461
+48,Unweighted cosine,False,1,3,0.3018513
+48,Orthogonal,False,0.01,3,0.2975128
+48,Orthogonal,False,1,3,0.32138947
+48,Multitask,False,1,1,0.3185802
+48,Projection,False,0.01,1,0.31720647
+48,Projection,False,1,1,0.3144328
+48,Weighted cosine,False,0.01,1,0.3103762
+48,Weighted cosine,False,1,1,0.30723336
+48,Unweighted cosine,False,0.01,1,0.29810104
+48,Unweighted cosine,False,1,1,0.30542448
+48,Orthogonal,False,0.01,1,0.32617995
+48,Orthogonal,False,1,1,0.3063651
+49,Single task,False,1,0,0.30754057
+49,Multitask,False,1,300,0.64996135
+49,Projection,False,0.01,300,0.37605736
+49,Projection,False,1,300,0.5520532
+49,Weighted cosine,False,0.01,300,0.29687148
+49,Weighted cosine,False,1,300,0.29564777
+49,Unweighted cosine,False,0.01,300,0.31220835
+49,Unweighted cosine,False,1,300,0.31839332
+49,Orthogonal,False,0.01,300,0.37509164
+49,Orthogonal,False,1,300,0.58194494
+49,Multitask,False,1,100,0.45135093
+49,Projection,False,0.01,100,0.28760284
+49,Projection,False,1,100,0.36404732
+49,Weighted cosine,False,0.01,100,0.29222503
+49,Weighted cosine,False,1,100,0.29504576
+49,Unweighted cosine,False,0.01,100,0.31447148
+49,Unweighted cosine,False,1,100,0.31836012
+49,Orthogonal,False,0.01,100,0.33882567
+49,Orthogonal,False,1,100,0.36470553
+49,Multitask,False,1,30,0.30708036
+49,Projection,False,0.01,30,0.31298038
+49,Projection,False,1,30,0.3228285
+49,Weighted cosine,False,0.01,30,0.32793868
+49,Weighted cosine,False,1,30,0.32802087
+49,Unweighted cosine,False,0.01,30,0.30127892
+49,Unweighted cosine,False,1,30,0.29415315
+49,Orthogonal,False,0.01,30,0.31165838
+49,Orthogonal,False,1,30,0.31597462
+49,Multitask,False,1,10,0.30497578
+49,Projection,False,0.01,10,0.31910548
+49,Projection,False,1,10,0.3183941
+49,Weighted cosine,False,0.01,10,0.29610485
+49,Weighted cosine,False,1,10,0.3102631
+49,Unweighted cosine,False,0.01,10,0.29649702
+49,Unweighted cosine,False,1,10,0.30559412
+49,Orthogonal,False,0.01,10,0.30030677
+49,Orthogonal,False,1,10,0.31071958
+49,Multitask,False,1,3,0.30047157
+49,Projection,False,0.01,3,0.32085022
+49,Projection,False,1,3,0.29825452
+49,Weighted cosine,False,0.01,3,0.30024862
+49,Weighted cosine,False,1,3,0.30337438
+49,Unweighted cosine,False,0.01,3,0.3034437
+49,Unweighted cosine,False,1,3,0.29921135
+49,Orthogonal,False,0.01,3,0.295224
+49,Orthogonal,False,1,3,0.29845804
+49,Multitask,False,1,1,0.34804475
+49,Projection,False,0.01,1,0.3024419
+49,Projection,False,1,1,0.32296547
+49,Weighted cosine,False,0.01,1,0.30611548
+49,Weighted cosine,False,1,1,0.3428753
+49,Unweighted cosine,False,0.01,1,0.30076963
+49,Unweighted cosine,False,1,1,0.3042432
+49,Orthogonal,False,0.01,1,0.30790636
+49,Orthogonal,False,1,1,0.30879498
